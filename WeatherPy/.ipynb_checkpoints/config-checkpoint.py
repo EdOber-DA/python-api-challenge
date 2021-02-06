@@ -1,0 +1,1 @@
+OpenWeatherMap_api_key = “2a5c7eaee3e42aae17f7ae3b1d0b9f8a”
