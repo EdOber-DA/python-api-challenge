@@ -1,0 +1,10 @@
+Processing search iteration: 0, Status: Key Error, OpenWeatherMap API could not find city: rikitea
+Processing search iteration: 1, Status: Key Error, OpenWeatherMap API could not find city: puerto ayora
+Processing search iteration: 2, Status: Key Error, OpenWeatherMap API could not find city: saskylakh
+Processing search iteration: 3, Status: Key Error, OpenWeatherMap API could not find city: aksarka
+Processing search iteration: 4, Status: Key Error, OpenWeatherMap API could not find city: rikitea
+Processing search iteration: 5, Status: Key Error, OpenWeatherMap API could not find city: barrow
+Processing search iteration: 6, Status: Key Error, OpenWeatherMap API could not find city: wuwei
+Processing search iteration: 7, Status: Key Error, OpenWeatherMap API could not find city: albany
+Processing search iteration: 8, Status: Key Error, OpenWeatherMap API could not find city: touros
+Processing search iteration: 9, Status: Key Error, OpenWeatherMap API could not find city: port elizabeth

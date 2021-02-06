@@ -13,327 +13,327 @@ Processing search iteration: 11, Status: Success! The City Count is: 11 and the 
 Processing search iteration: 12, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 13, Status: Key Error, OpenWeatherMap API could not find city: palabuhanratu
 Processing search iteration: 14, Status: Duplicate City: bluff
-Processing search iteration: 15, Status: Success! The City Count is: 12 and the unique name is: srandakan
+Processing search iteration: 15, Status: Success! The City Count is: 14 and the unique name is: srandakan
 Processing search iteration: 16, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 17, Status: Success! The City Count is: 13 and the unique name is: ponta do sol
-Processing search iteration: 18, Status: Success! The City Count is: 14 and the unique name is: broome
-Processing search iteration: 19, Status: Success! The City Count is: 15 and the unique name is: makakilo city
-Processing search iteration: 20, Status: Success! The City Count is: 16 and the unique name is: hamilton
-Processing search iteration: 21, Status: Success! The City Count is: 17 and the unique name is: oranjemund
-Processing search iteration: 22, Status: Success! The City Count is: 18 and the unique name is: east london
-Processing search iteration: 23, Status: Success! The City Count is: 19 and the unique name is: khatanga
-Processing search iteration: 24, Status: Success! The City Count is: 20 and the unique name is: upernavik
-Processing search iteration: 25, Status: Success! The City Count is: 21 and the unique name is: bida
-Processing search iteration: 26, Status: Success! The City Count is: 22 and the unique name is: chokurdakh
-Processing search iteration: 27, Status: Success! The City Count is: 23 and the unique name is: kapaa
+Processing search iteration: 17, Status: Success! The City Count is: 16 and the unique name is: ponta do sol
+Processing search iteration: 18, Status: Success! The City Count is: 17 and the unique name is: broome
+Processing search iteration: 19, Status: Success! The City Count is: 18 and the unique name is: makakilo city
+Processing search iteration: 20, Status: Success! The City Count is: 19 and the unique name is: hamilton
+Processing search iteration: 21, Status: Success! The City Count is: 20 and the unique name is: oranjemund
+Processing search iteration: 22, Status: Success! The City Count is: 21 and the unique name is: east london
+Processing search iteration: 23, Status: Success! The City Count is: 22 and the unique name is: khatanga
+Processing search iteration: 24, Status: Success! The City Count is: 23 and the unique name is: upernavik
+Processing search iteration: 25, Status: Success! The City Count is: 24 and the unique name is: bida
+Processing search iteration: 26, Status: Success! The City Count is: 25 and the unique name is: chokurdakh
+Processing search iteration: 27, Status: Success! The City Count is: 26 and the unique name is: kapaa
 Processing search iteration: 28, Status: Key Error, OpenWeatherMap API could not find city: skagastrond
-Processing search iteration: 29, Status: Success! The City Count is: 24 and the unique name is: hami
-Processing search iteration: 30, Status: Success! The City Count is: 25 and the unique name is: saint-philippe
+Processing search iteration: 29, Status: Success! The City Count is: 28 and the unique name is: hami
+Processing search iteration: 30, Status: Success! The City Count is: 29 and the unique name is: saint-philippe
 Processing search iteration: 31, Status: Key Error, OpenWeatherMap API could not find city: amderma
 Processing search iteration: 32, Status: Duplicate City: albany
-Processing search iteration: 33, Status: Success! The City Count is: 26 and the unique name is: yellowknife
-Processing search iteration: 34, Status: Success! The City Count is: 27 and the unique name is: port macquarie
-Processing search iteration: 35, Status: Success! The City Count is: 28 and the unique name is: seydi
+Processing search iteration: 33, Status: Success! The City Count is: 31 and the unique name is: yellowknife
+Processing search iteration: 34, Status: Success! The City Count is: 32 and the unique name is: port macquarie
+Processing search iteration: 35, Status: Success! The City Count is: 33 and the unique name is: seydi
 Processing search iteration: 36, Status: Duplicate City: barrow
-Processing search iteration: 37, Status: Success! The City Count is: 29 and the unique name is: wasilla
-Processing search iteration: 38, Status: Success! The City Count is: 30 and the unique name is: kodumudi
-Processing search iteration: 39, Status: Success! The City Count is: 31 and the unique name is: machali
+Processing search iteration: 37, Status: Success! The City Count is: 34 and the unique name is: wasilla
+Processing search iteration: 38, Status: Success! The City Count is: 35 and the unique name is: kodumudi
+Processing search iteration: 39, Status: Success! The City Count is: 36 and the unique name is: machali
 Processing search iteration: 40, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 41, Status: Success! The City Count is: 32 and the unique name is: ushuaia
-Processing search iteration: 42, Status: Success! The City Count is: 33 and the unique name is: leningradskiy
-Processing search iteration: 43, Status: Success! The City Count is: 34 and the unique name is: hithadhoo
+Processing search iteration: 41, Status: Success! The City Count is: 38 and the unique name is: ushuaia
+Processing search iteration: 42, Status: Success! The City Count is: 39 and the unique name is: leningradskiy
+Processing search iteration: 43, Status: Success! The City Count is: 40 and the unique name is: hithadhoo
 Processing search iteration: 44, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
 Processing search iteration: 45, Status: Key Error, OpenWeatherMap API could not find city: tanshui
 Processing search iteration: 46, Status: Key Error, OpenWeatherMap API could not find city: rungata
 Processing search iteration: 47, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 48, Status: Success! The City Count is: 35 and the unique name is: thompson
-Processing search iteration: 49, Status: Success! The City Count is: 36 and the unique name is: ilulissat
-Processing search iteration: 50, Status: Success! The City Count is: 37 and the unique name is: sitka
-Processing search iteration: 51, Status: Success! The City Count is: 38 and the unique name is: inta
-Processing search iteration: 52, Status: Success! The City Count is: 39 and the unique name is: biloela
-Processing search iteration: 53, Status: Success! The City Count is: 40 and the unique name is: svetlaya
-Processing search iteration: 54, Status: Success! The City Count is: 41 and the unique name is: samdrup jongkhar
+Processing search iteration: 48, Status: Success! The City Count is: 45 and the unique name is: thompson
+Processing search iteration: 49, Status: Success! The City Count is: 46 and the unique name is: ilulissat
+Processing search iteration: 50, Status: Success! The City Count is: 47 and the unique name is: sitka
+Processing search iteration: 51, Status: Success! The City Count is: 48 and the unique name is: inta
+Processing search iteration: 52, Status: Success! The City Count is: 49 and the unique name is: biloela
+Processing search iteration: 53, Status: Success! The City Count is: 50 and the unique name is: svetlaya
+Processing search iteration: 54, Status: Success! The City Count is: 51 and the unique name is: samdrup jongkhar
 Processing search iteration: 55, Status: Duplicate City: kapaa
-Processing search iteration: 56, Status: Success! The City Count is: 42 and the unique name is: pevek
-Processing search iteration: 57, Status: Success! The City Count is: 43 and the unique name is: davila
+Processing search iteration: 56, Status: Success! The City Count is: 52 and the unique name is: pevek
+Processing search iteration: 57, Status: Success! The City Count is: 53 and the unique name is: davila
 Processing search iteration: 58, Status: Duplicate City: ushuaia
-Processing search iteration: 59, Status: Success! The City Count is: 44 and the unique name is: rafaela
-Processing search iteration: 60, Status: Success! The City Count is: 45 and the unique name is: cape town
+Processing search iteration: 59, Status: Success! The City Count is: 54 and the unique name is: rafaela
+Processing search iteration: 60, Status: Success! The City Count is: 55 and the unique name is: cape town
 Processing search iteration: 61, Status: Duplicate City: rikitea
-Processing search iteration: 62, Status: Success! The City Count is: 46 and the unique name is: vaini
-Processing search iteration: 63, Status: Success! The City Count is: 47 and the unique name is: provideniya
-Processing search iteration: 64, Status: Success! The City Count is: 48 and the unique name is: bonthe
+Processing search iteration: 62, Status: Success! The City Count is: 56 and the unique name is: vaini
+Processing search iteration: 63, Status: Success! The City Count is: 57 and the unique name is: provideniya
+Processing search iteration: 64, Status: Success! The City Count is: 58 and the unique name is: bonthe
 Processing search iteration: 65, Status: Duplicate City: puerto ayora
 Processing search iteration: 66, Status: Key Error, OpenWeatherMap API could not find city: tsihombe
-Processing search iteration: 67, Status: Success! The City Count is: 49 and the unique name is: atuona
-Processing search iteration: 68, Status: Success! The City Count is: 50 and the unique name is: talcahuano
-Processing search iteration: 69, Status: Success! The City Count is: 51 and the unique name is: lata
-Processing search iteration: 70, Status: Success! The City Count is: 52 and the unique name is: luderitz
-Processing search iteration: 71, Status: Success! The City Count is: 53 and the unique name is: taganak
-Processing search iteration: 72, Status: Success! The City Count is: 54 and the unique name is: airai
+Processing search iteration: 67, Status: Success! The City Count is: 60 and the unique name is: atuona
+Processing search iteration: 68, Status: Success! The City Count is: 61 and the unique name is: talcahuano
+Processing search iteration: 69, Status: Success! The City Count is: 62 and the unique name is: lata
+Processing search iteration: 70, Status: Success! The City Count is: 63 and the unique name is: luderitz
+Processing search iteration: 71, Status: Success! The City Count is: 64 and the unique name is: taganak
+Processing search iteration: 72, Status: Success! The City Count is: 65 and the unique name is: airai
 Processing search iteration: 73, Status: Duplicate City: yellowknife
-Processing search iteration: 74, Status: Success! The City Count is: 55 and the unique name is: bredasdorp
-Processing search iteration: 75, Status: Success! The City Count is: 56 and the unique name is: piranshahr
-Processing search iteration: 76, Status: Success! The City Count is: 57 and the unique name is: miquelon
+Processing search iteration: 74, Status: Success! The City Count is: 66 and the unique name is: bredasdorp
+Processing search iteration: 75, Status: Success! The City Count is: 67 and the unique name is: piranshahr
+Processing search iteration: 76, Status: Success! The City Count is: 68 and the unique name is: miquelon
 Processing search iteration: 77, Status: Duplicate City: puerto ayora
-Processing search iteration: 78, Status: Success! The City Count is: 58 and the unique name is: panguna
-Processing search iteration: 79, Status: Success! The City Count is: 59 and the unique name is: carnarvon
+Processing search iteration: 78, Status: Success! The City Count is: 69 and the unique name is: panguna
+Processing search iteration: 79, Status: Success! The City Count is: 70 and the unique name is: carnarvon
 Processing search iteration: 80, Status: Duplicate City: ushuaia
-Processing search iteration: 81, Status: Success! The City Count is: 60 and the unique name is: busselton
+Processing search iteration: 81, Status: Success! The City Count is: 71 and the unique name is: busselton
 Processing search iteration: 82, Status: Duplicate City: mataura
 Processing search iteration: 83, Status: Duplicate City: busselton
 Processing search iteration: 84, Status: Duplicate City: khatanga
 Processing search iteration: 85, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
 Processing search iteration: 86, Status: Duplicate City: saskylakh
-Processing search iteration: 87, Status: Success! The City Count is: 61 and the unique name is: poum
+Processing search iteration: 87, Status: Success! The City Count is: 73 and the unique name is: poum
 Processing search iteration: 88, Status: Duplicate City: busselton
-Processing search iteration: 89, Status: Success! The City Count is: 62 and the unique name is: thap than
+Processing search iteration: 89, Status: Success! The City Count is: 74 and the unique name is: thap than
 Processing search iteration: 90, Status: Duplicate City: bredasdorp
-Processing search iteration: 91, Status: Success! The City Count is: 63 and the unique name is: rocha
+Processing search iteration: 91, Status: Success! The City Count is: 75 and the unique name is: rocha
 Processing search iteration: 92, Status: Duplicate City: bredasdorp
 Processing search iteration: 93, Status: Duplicate City: rikitea
-Processing search iteration: 94, Status: Success! The City Count is: 64 and the unique name is: kousseri
+Processing search iteration: 94, Status: Success! The City Count is: 76 and the unique name is: kousseri
 Processing search iteration: 95, Status: Duplicate City: busselton
 Processing search iteration: 96, Status: Duplicate City: puerto ayora
 Processing search iteration: 97, Status: Duplicate City: mataura
 Processing search iteration: 98, Status: Duplicate City: broome
-Processing search iteration: 99, Status: Success! The City Count is: 65 and the unique name is: nelson bay
+Processing search iteration: 99, Status: Success! The City Count is: 77 and the unique name is: nelson bay
 Processing search iteration: 100, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 101, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 102, Status: Success! The City Count is: 66 and the unique name is: mar del plata
-Processing search iteration: 103, Status: Success! The City Count is: 67 and the unique name is: saint anthony
+Processing search iteration: 102, Status: Success! The City Count is: 80 and the unique name is: mar del plata
+Processing search iteration: 103, Status: Success! The City Count is: 81 and the unique name is: saint anthony
 Processing search iteration: 104, Status: Duplicate City: yellowknife
-Processing search iteration: 105, Status: Success! The City Count is: 68 and the unique name is: castelbuono
+Processing search iteration: 105, Status: Success! The City Count is: 82 and the unique name is: castelbuono
 Processing search iteration: 106, Status: Duplicate City: chokurdakh
 Processing search iteration: 107, Status: Duplicate City: port elizabeth
-Processing search iteration: 108, Status: Success! The City Count is: 69 and the unique name is: palafrugell
+Processing search iteration: 108, Status: Success! The City Count is: 83 and the unique name is: palafrugell
 Processing search iteration: 109, Status: Duplicate City: ushuaia
-Processing search iteration: 110, Status: Success! The City Count is: 70 and the unique name is: maxixe
+Processing search iteration: 110, Status: Success! The City Count is: 84 and the unique name is: maxixe
 Processing search iteration: 111, Status: Key Error, OpenWeatherMap API could not find city: umzimvubu
-Processing search iteration: 112, Status: Success! The City Count is: 71 and the unique name is: nanortalik
+Processing search iteration: 112, Status: Success! The City Count is: 86 and the unique name is: nanortalik
 Processing search iteration: 113, Status: Duplicate City: atuona
-Processing search iteration: 114, Status: Success! The City Count is: 72 and the unique name is: nikolskoye
-Processing search iteration: 115, Status: Success! The City Count is: 73 and the unique name is: butaritari
+Processing search iteration: 114, Status: Success! The City Count is: 87 and the unique name is: nikolskoye
+Processing search iteration: 115, Status: Success! The City Count is: 88 and the unique name is: butaritari
 Processing search iteration: 116, Status: Duplicate City: pevek
 Processing search iteration: 117, Status: Duplicate City: atuona
 Processing search iteration: 118, Status: Duplicate City: rikitea
-Processing search iteration: 119, Status: Success! The City Count is: 74 and the unique name is: comodoro rivadavia
-Processing search iteration: 120, Status: Success! The City Count is: 75 and the unique name is: ahipara
-Processing search iteration: 121, Status: Success! The City Count is: 76 and the unique name is: jamestown
-Processing search iteration: 122, Status: Success! The City Count is: 77 and the unique name is: katsuura
-Processing search iteration: 123, Status: Success! The City Count is: 78 and the unique name is: victoria
-Processing search iteration: 124, Status: Success! The City Count is: 79 and the unique name is: abha
-Processing search iteration: 125, Status: Success! The City Count is: 80 and the unique name is: hermanus
-Processing search iteration: 126, Status: Success! The City Count is: 81 and the unique name is: nhulunbuy
+Processing search iteration: 119, Status: Success! The City Count is: 89 and the unique name is: comodoro rivadavia
+Processing search iteration: 120, Status: Success! The City Count is: 90 and the unique name is: ahipara
+Processing search iteration: 121, Status: Success! The City Count is: 91 and the unique name is: jamestown
+Processing search iteration: 122, Status: Success! The City Count is: 92 and the unique name is: katsuura
+Processing search iteration: 123, Status: Success! The City Count is: 93 and the unique name is: victoria
+Processing search iteration: 124, Status: Success! The City Count is: 94 and the unique name is: abha
+Processing search iteration: 125, Status: Success! The City Count is: 95 and the unique name is: hermanus
+Processing search iteration: 126, Status: Success! The City Count is: 96 and the unique name is: nhulunbuy
 Processing search iteration: 127, Status: Duplicate City: rikitea
-Processing search iteration: 128, Status: Success! The City Count is: 82 and the unique name is: hilo
-Processing search iteration: 129, Status: Success! The City Count is: 83 and the unique name is: north bend
-Processing search iteration: 130, Status: Success! The City Count is: 84 and the unique name is: toccoa
+Processing search iteration: 128, Status: Success! The City Count is: 97 and the unique name is: hilo
+Processing search iteration: 129, Status: Success! The City Count is: 98 and the unique name is: north bend
+Processing search iteration: 130, Status: Success! The City Count is: 99 and the unique name is: toccoa
 Processing search iteration: 131, Status: Key Error, OpenWeatherMap API could not find city: umzimvubu
 Processing search iteration: 132, Status: Duplicate City: saint-philippe
 Processing search iteration: 133, Status: Duplicate City: mar del plata
 Processing search iteration: 134, Status: Duplicate City: cape town
-Processing search iteration: 135, Status: Success! The City Count is: 85 and the unique name is: mizdah
+Processing search iteration: 135, Status: Success! The City Count is: 101 and the unique name is: mizdah
 Processing search iteration: 136, Status: Duplicate City: yellowknife
-Processing search iteration: 137, Status: Success! The City Count is: 86 and the unique name is: lerwick
+Processing search iteration: 137, Status: Success! The City Count is: 102 and the unique name is: lerwick
 Processing search iteration: 138, Status: Duplicate City: mataura
 Processing search iteration: 139, Status: Duplicate City: kapaa
-Processing search iteration: 140, Status: Success! The City Count is: 87 and the unique name is: punta arenas
-Processing search iteration: 141, Status: Success! The City Count is: 88 and the unique name is: belle fourche
+Processing search iteration: 140, Status: Success! The City Count is: 103 and the unique name is: punta arenas
+Processing search iteration: 141, Status: Success! The City Count is: 104 and the unique name is: belle fourche
 Processing search iteration: 142, Status: Duplicate City: ushuaia
-Processing search iteration: 143, Status: Success! The City Count is: 89 and the unique name is: bengkulu
-Processing search iteration: 144, Status: Success! The City Count is: 90 and the unique name is: lebu
-Processing search iteration: 145, Status: Success! The City Count is: 91 and the unique name is: iqaluit
-Processing search iteration: 146, Status: Success! The City Count is: 92 and the unique name is: carhuamayo
+Processing search iteration: 143, Status: Success! The City Count is: 105 and the unique name is: bengkulu
+Processing search iteration: 144, Status: Success! The City Count is: 106 and the unique name is: lebu
+Processing search iteration: 145, Status: Success! The City Count is: 107 and the unique name is: iqaluit
+Processing search iteration: 146, Status: Success! The City Count is: 108 and the unique name is: carhuamayo
 Processing search iteration: 147, Status: Duplicate City: albany
 Processing search iteration: 148, Status: Duplicate City: nikolskoye
 Processing search iteration: 149, Status: Duplicate City: bonthe
-Processing search iteration: 150, Status: Success! The City Count is: 93 and the unique name is: rovaniemi
+Processing search iteration: 150, Status: Success! The City Count is: 109 and the unique name is: rovaniemi
 Processing search iteration: 151, Status: Duplicate City: mar del plata
 Processing search iteration: 152, Status: Duplicate City: hilo
 Processing search iteration: 153, Status: Duplicate City: vaini
 Processing search iteration: 154, Status: Key Error, OpenWeatherMap API could not find city: yirol
-Processing search iteration: 155, Status: Success! The City Count is: 94 and the unique name is: kyshtovka
-Processing search iteration: 156, Status: Success! The City Count is: 95 and the unique name is: madras
+Processing search iteration: 155, Status: Success! The City Count is: 111 and the unique name is: kyshtovka
+Processing search iteration: 156, Status: Success! The City Count is: 112 and the unique name is: madras
 Processing search iteration: 157, Status: Duplicate City: rikitea
-Processing search iteration: 158, Status: Success! The City Count is: 96 and the unique name is: cabra
+Processing search iteration: 158, Status: Success! The City Count is: 113 and the unique name is: cabra
 Processing search iteration: 159, Status: Duplicate City: jamestown
-Processing search iteration: 160, Status: Success! The City Count is: 97 and the unique name is: isangel
-Processing search iteration: 161, Status: Success! The City Count is: 98 and the unique name is: vodnyy
-Processing search iteration: 162, Status: Success! The City Count is: 99 and the unique name is: novo aripuana
+Processing search iteration: 160, Status: Success! The City Count is: 114 and the unique name is: isangel
+Processing search iteration: 161, Status: Success! The City Count is: 115 and the unique name is: vodnyy
+Processing search iteration: 162, Status: Success! The City Count is: 116 and the unique name is: novo aripuana
 Processing search iteration: 163, Status: Duplicate City: upernavik
-Processing search iteration: 164, Status: Success! The City Count is: 100 and the unique name is: sinnamary
+Processing search iteration: 164, Status: Success! The City Count is: 117 and the unique name is: sinnamary
 Processing search iteration: 165, Status: Duplicate City: victoria
 Processing search iteration: 166, Status: Duplicate City: hermanus
 Processing search iteration: 167, Status: Duplicate City: albany
-Processing search iteration: 168, Status: Success! The City Count is: 101 and the unique name is: port alfred
+Processing search iteration: 168, Status: Success! The City Count is: 118 and the unique name is: port alfred
 Processing search iteration: 169, Status: Duplicate City: hithadhoo
 Processing search iteration: 170, Status: Duplicate City: hilo
-Processing search iteration: 171, Status: Success! The City Count is: 102 and the unique name is: saint-francois
-Processing search iteration: 172, Status: Success! The City Count is: 103 and the unique name is: ati
-Processing search iteration: 173, Status: Success! The City Count is: 104 and the unique name is: mbekenyera
-Processing search iteration: 174, Status: Success! The City Count is: 105 and the unique name is: kaitangata
-Processing search iteration: 175, Status: Success! The City Count is: 106 and the unique name is: cidreira
-Processing search iteration: 176, Status: Success! The City Count is: 107 and the unique name is: alofi
+Processing search iteration: 171, Status: Success! The City Count is: 119 and the unique name is: saint-francois
+Processing search iteration: 172, Status: Success! The City Count is: 120 and the unique name is: ati
+Processing search iteration: 173, Status: Success! The City Count is: 121 and the unique name is: mbekenyera
+Processing search iteration: 174, Status: Success! The City Count is: 122 and the unique name is: kaitangata
+Processing search iteration: 175, Status: Success! The City Count is: 123 and the unique name is: cidreira
+Processing search iteration: 176, Status: Success! The City Count is: 124 and the unique name is: alofi
 Processing search iteration: 177, Status: Duplicate City: hithadhoo
 Processing search iteration: 178, Status: Duplicate City: cape town
 Processing search iteration: 179, Status: Duplicate City: rikitea
 Processing search iteration: 180, Status: Duplicate City: vaini
-Processing search iteration: 181, Status: Success! The City Count is: 108 and the unique name is: eyl
-Processing search iteration: 182, Status: Success! The City Count is: 109 and the unique name is: tiksi
+Processing search iteration: 181, Status: Success! The City Count is: 125 and the unique name is: eyl
+Processing search iteration: 182, Status: Success! The City Count is: 126 and the unique name is: tiksi
 Processing search iteration: 183, Status: Duplicate City: rikitea
 Processing search iteration: 184, Status: Key Error, OpenWeatherMap API could not find city: skalistyy
-Processing search iteration: 185, Status: Success! The City Count is: 110 and the unique name is: hobart
-Processing search iteration: 186, Status: Success! The City Count is: 111 and the unique name is: venado tuerto
-Processing search iteration: 187, Status: Success! The City Count is: 112 and the unique name is: ancud
-Processing search iteration: 188, Status: Success! The City Count is: 113 and the unique name is: biltine
-Processing search iteration: 189, Status: Success! The City Count is: 114 and the unique name is: tuatapere
-Processing search iteration: 190, Status: Success! The City Count is: 115 and the unique name is: pochutla
-Processing search iteration: 191, Status: Success! The City Count is: 116 and the unique name is: pisco
+Processing search iteration: 185, Status: Success! The City Count is: 128 and the unique name is: hobart
+Processing search iteration: 186, Status: Success! The City Count is: 129 and the unique name is: venado tuerto
+Processing search iteration: 187, Status: Success! The City Count is: 130 and the unique name is: ancud
+Processing search iteration: 188, Status: Success! The City Count is: 131 and the unique name is: biltine
+Processing search iteration: 189, Status: Success! The City Count is: 132 and the unique name is: tuatapere
+Processing search iteration: 190, Status: Success! The City Count is: 133 and the unique name is: pochutla
+Processing search iteration: 191, Status: Success! The City Count is: 134 and the unique name is: pisco
 Processing search iteration: 192, Status: Duplicate City: barrow
-Processing search iteration: 193, Status: Success! The City Count is: 117 and the unique name is: cayenne
-Processing search iteration: 194, Status: Success! The City Count is: 118 and the unique name is: saldanha
+Processing search iteration: 193, Status: Success! The City Count is: 135 and the unique name is: cayenne
+Processing search iteration: 194, Status: Success! The City Count is: 136 and the unique name is: saldanha
 Processing search iteration: 195, Status: Duplicate City: nikolskoye
 Processing search iteration: 196, Status: Duplicate City: mataura
-Processing search iteration: 197, Status: Success! The City Count is: 119 and the unique name is: georgetown
+Processing search iteration: 197, Status: Success! The City Count is: 137 and the unique name is: georgetown
 Processing search iteration: 198, Status: Duplicate City: albany
-Processing search iteration: 199, Status: Success! The City Count is: 120 and the unique name is: beringovskiy
+Processing search iteration: 199, Status: Success! The City Count is: 138 and the unique name is: beringovskiy
 Processing search iteration: 200, Status: Key Error, OpenWeatherMap API could not find city: lolua
 Processing search iteration: 201, Status: Duplicate City: nikolskoye
 Processing search iteration: 202, Status: Duplicate City: provideniya
-Processing search iteration: 203, Status: Success! The City Count is: 121 and the unique name is: pasinler
+Processing search iteration: 203, Status: Success! The City Count is: 140 and the unique name is: pasinler
 Processing search iteration: 204, Status: Duplicate City: jamestown
-Processing search iteration: 205, Status: Success! The City Count is: 122 and the unique name is: nome
-Processing search iteration: 206, Status: Success! The City Count is: 123 and the unique name is: bethel
+Processing search iteration: 205, Status: Success! The City Count is: 141 and the unique name is: nome
+Processing search iteration: 206, Status: Success! The City Count is: 142 and the unique name is: bethel
 Processing search iteration: 207, Status: Duplicate City: east london
-Processing search iteration: 208, Status: Success! The City Count is: 124 and the unique name is: castro
+Processing search iteration: 208, Status: Success! The City Count is: 143 and the unique name is: castro
 Processing search iteration: 209, Status: Duplicate City: jamestown
-Processing search iteration: 210, Status: Success! The City Count is: 125 and the unique name is: matara
-Processing search iteration: 211, Status: Success! The City Count is: 126 and the unique name is: yarmouth
-Processing search iteration: 212, Status: Success! The City Count is: 127 and the unique name is: chuy
+Processing search iteration: 210, Status: Success! The City Count is: 144 and the unique name is: matara
+Processing search iteration: 211, Status: Success! The City Count is: 145 and the unique name is: yarmouth
+Processing search iteration: 212, Status: Success! The City Count is: 146 and the unique name is: chuy
 Processing search iteration: 213, Status: Key Error, OpenWeatherMap API could not find city: mys shmidta
 Processing search iteration: 214, Status: Duplicate City: ahipara
 Processing search iteration: 215, Status: Duplicate City: airai
-Processing search iteration: 216, Status: Success! The City Count is: 128 and the unique name is: tasiilaq
-Processing search iteration: 217, Status: Success! The City Count is: 129 and the unique name is: mwinilunga
+Processing search iteration: 216, Status: Success! The City Count is: 148 and the unique name is: tasiilaq
+Processing search iteration: 217, Status: Success! The City Count is: 149 and the unique name is: mwinilunga
 Processing search iteration: 218, Status: Key Error, OpenWeatherMap API could not find city: nizhneyansk
 Processing search iteration: 219, Status: Duplicate City: bengkulu
-Processing search iteration: 220, Status: Success! The City Count is: 130 and the unique name is: tessalit
-Processing search iteration: 221, Status: Success! The City Count is: 131 and the unique name is: tautira
+Processing search iteration: 220, Status: Success! The City Count is: 151 and the unique name is: tessalit
+Processing search iteration: 221, Status: Success! The City Count is: 152 and the unique name is: tautira
 Processing search iteration: 222, Status: Duplicate City: bluff
-Processing search iteration: 223, Status: Success! The City Count is: 132 and the unique name is: wilmington
+Processing search iteration: 223, Status: Success! The City Count is: 153 and the unique name is: wilmington
 Processing search iteration: 224, Status: Duplicate City: ilulissat
-Processing search iteration: 225, Status: Success! The City Count is: 133 and the unique name is: dourbali
-Processing search iteration: 226, Status: Success! The City Count is: 134 and the unique name is: kavaratti
-Processing search iteration: 227, Status: Success! The City Count is: 135 and the unique name is: esperance
+Processing search iteration: 225, Status: Success! The City Count is: 154 and the unique name is: dourbali
+Processing search iteration: 226, Status: Success! The City Count is: 155 and the unique name is: kavaratti
+Processing search iteration: 227, Status: Success! The City Count is: 156 and the unique name is: esperance
 Processing search iteration: 228, Status: Duplicate City: punta arenas
 Processing search iteration: 229, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 230, Status: Success! The City Count is: 136 and the unique name is: constitucion
+Processing search iteration: 230, Status: Success! The City Count is: 158 and the unique name is: constitucion
 Processing search iteration: 231, Status: Duplicate City: bengkulu
 Processing search iteration: 232, Status: Duplicate City: tautira
-Processing search iteration: 233, Status: Success! The City Count is: 137 and the unique name is: dikson
-Processing search iteration: 234, Status: Success! The City Count is: 138 and the unique name is: radhanpur
-Processing search iteration: 235, Status: Success! The City Count is: 139 and the unique name is: qaanaaq
+Processing search iteration: 233, Status: Success! The City Count is: 159 and the unique name is: dikson
+Processing search iteration: 234, Status: Success! The City Count is: 160 and the unique name is: radhanpur
+Processing search iteration: 235, Status: Success! The City Count is: 161 and the unique name is: qaanaaq
 Processing search iteration: 236, Status: Duplicate City: barrow
-Processing search iteration: 237, Status: Success! The City Count is: 140 and the unique name is: tuktoyaktuk
+Processing search iteration: 237, Status: Success! The City Count is: 162 and the unique name is: tuktoyaktuk
 Processing search iteration: 238, Status: Duplicate City: puerto ayora
 Processing search iteration: 239, Status: Duplicate City: atuona
 Processing search iteration: 240, Status: Duplicate City: rikitea
-Processing search iteration: 241, Status: Success! The City Count is: 141 and the unique name is: vestmannaeyjar
-Processing search iteration: 242, Status: Success! The City Count is: 142 and the unique name is: linxia
-Processing search iteration: 243, Status: Success! The City Count is: 143 and the unique name is: mastic beach
-Processing search iteration: 244, Status: Success! The City Count is: 144 and the unique name is: hue
-Processing search iteration: 245, Status: Success! The City Count is: 145 and the unique name is: new norfolk
+Processing search iteration: 241, Status: Success! The City Count is: 163 and the unique name is: vestmannaeyjar
+Processing search iteration: 242, Status: Success! The City Count is: 164 and the unique name is: linxia
+Processing search iteration: 243, Status: Success! The City Count is: 165 and the unique name is: mastic beach
+Processing search iteration: 244, Status: Success! The City Count is: 166 and the unique name is: hue
+Processing search iteration: 245, Status: Success! The City Count is: 167 and the unique name is: new norfolk
 Processing search iteration: 246, Status: Duplicate City: puerto ayora
 Processing search iteration: 247, Status: Duplicate City: nikolskoye
-Processing search iteration: 248, Status: Success! The City Count is: 146 and the unique name is: rapid valley
-Processing search iteration: 249, Status: Success! The City Count is: 147 and the unique name is: dogbo
+Processing search iteration: 248, Status: Success! The City Count is: 168 and the unique name is: rapid valley
+Processing search iteration: 249, Status: Success! The City Count is: 169 and the unique name is: dogbo
 Processing search iteration: 250, Status: Duplicate City: hithadhoo
 Processing search iteration: 251, Status: Duplicate City: ushuaia
 Processing search iteration: 252, Status: Duplicate City: khatanga
 Processing search iteration: 253, Status: Duplicate City: mataura
 Processing search iteration: 254, Status: Duplicate City: georgetown
-Processing search iteration: 255, Status: Success! The City Count is: 148 and the unique name is: villazon
-Processing search iteration: 256, Status: Success! The City Count is: 149 and the unique name is: muisne
+Processing search iteration: 255, Status: Success! The City Count is: 170 and the unique name is: villazon
+Processing search iteration: 256, Status: Success! The City Count is: 171 and the unique name is: muisne
 Processing search iteration: 257, Status: Duplicate City: upernavik
-Processing search iteration: 258, Status: Success! The City Count is: 150 and the unique name is: yangambi
-Processing search iteration: 259, Status: Success! The City Count is: 151 and the unique name is: batu
-Processing search iteration: 260, Status: Success! The City Count is: 152 and the unique name is: whitianga
-Processing search iteration: 261, Status: Success! The City Count is: 153 and the unique name is: shimoda
-Processing search iteration: 262, Status: Success! The City Count is: 154 and the unique name is: bismarck
+Processing search iteration: 258, Status: Success! The City Count is: 172 and the unique name is: yangambi
+Processing search iteration: 259, Status: Success! The City Count is: 173 and the unique name is: batu
+Processing search iteration: 260, Status: Success! The City Count is: 174 and the unique name is: whitianga
+Processing search iteration: 261, Status: Success! The City Count is: 175 and the unique name is: shimoda
+Processing search iteration: 262, Status: Success! The City Count is: 176 and the unique name is: bismarck
 Processing search iteration: 263, Status: Key Error, OpenWeatherMap API could not find city: grand river south east
-Processing search iteration: 264, Status: Success! The City Count is: 155 and the unique name is: henties bay
-Processing search iteration: 265, Status: Success! The City Count is: 156 and the unique name is: avarua
+Processing search iteration: 264, Status: Success! The City Count is: 178 and the unique name is: henties bay
+Processing search iteration: 265, Status: Success! The City Count is: 179 and the unique name is: avarua
 Processing search iteration: 266, Status: Duplicate City: vaini
-Processing search iteration: 267, Status: Success! The City Count is: 157 and the unique name is: longyearbyen
+Processing search iteration: 267, Status: Success! The City Count is: 180 and the unique name is: longyearbyen
 Processing search iteration: 268, Status: Duplicate City: rikitea
 Processing search iteration: 269, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 270, Status: Success! The City Count is: 158 and the unique name is: dong xoai
+Processing search iteration: 270, Status: Success! The City Count is: 182 and the unique name is: dong xoai
 Processing search iteration: 271, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
-Processing search iteration: 272, Status: Success! The City Count is: 159 and the unique name is: berlevag
+Processing search iteration: 272, Status: Success! The City Count is: 184 and the unique name is: berlevag
 Processing search iteration: 273, Status: Duplicate City: punta arenas
-Processing search iteration: 274, Status: Success! The City Count is: 160 and the unique name is: bagdarin
-Processing search iteration: 275, Status: Success! The City Count is: 161 and the unique name is: awjilah
+Processing search iteration: 274, Status: Success! The City Count is: 185 and the unique name is: bagdarin
+Processing search iteration: 275, Status: Success! The City Count is: 186 and the unique name is: awjilah
 Processing search iteration: 276, Status: Duplicate City: dikson
 Processing search iteration: 277, Status: Duplicate City: shimoda
 Processing search iteration: 278, Status: Duplicate City: saint-philippe
-Processing search iteration: 279, Status: Success! The City Count is: 162 and the unique name is: torbay
+Processing search iteration: 279, Status: Success! The City Count is: 187 and the unique name is: torbay
 Processing search iteration: 280, Status: Duplicate City: hermanus
 Processing search iteration: 281, Status: Duplicate City: upernavik
-Processing search iteration: 282, Status: Success! The City Count is: 163 and the unique name is: evensk
-Processing search iteration: 283, Status: Success! The City Count is: 164 and the unique name is: lucani
+Processing search iteration: 282, Status: Success! The City Count is: 188 and the unique name is: evensk
+Processing search iteration: 283, Status: Success! The City Count is: 189 and the unique name is: lucani
 Processing search iteration: 284, Status: Duplicate City: busselton
 Processing search iteration: 285, Status: Duplicate City: upernavik
 Processing search iteration: 286, Status: Key Error, OpenWeatherMap API could not find city: sentyabrskiy
 Processing search iteration: 287, Status: Duplicate City: busselton
-Processing search iteration: 288, Status: Success! The City Count is: 165 and the unique name is: ust-koksa
+Processing search iteration: 288, Status: Success! The City Count is: 191 and the unique name is: ust-koksa
 Processing search iteration: 289, Status: Duplicate City: hilo
 Processing search iteration: 290, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
 Processing search iteration: 291, Status: Duplicate City: makakilo city
-Processing search iteration: 292, Status: Success! The City Count is: 166 and the unique name is: greece
-Processing search iteration: 293, Status: Success! The City Count is: 167 and the unique name is: tarancon
+Processing search iteration: 292, Status: Success! The City Count is: 193 and the unique name is: greece
+Processing search iteration: 293, Status: Success! The City Count is: 194 and the unique name is: tarancon
 Processing search iteration: 294, Status: Duplicate City: rikitea
 Processing search iteration: 295, Status: Duplicate City: port alfred
-Processing search iteration: 296, Status: Success! The City Count is: 168 and the unique name is: meulaboh
+Processing search iteration: 296, Status: Success! The City Count is: 195 and the unique name is: meulaboh
 Processing search iteration: 297, Status: Duplicate City: longyearbyen
 Processing search iteration: 298, Status: Duplicate City: esperance
-Processing search iteration: 299, Status: Success! The City Count is: 169 and the unique name is: nabire
+Processing search iteration: 299, Status: Success! The City Count is: 196 and the unique name is: nabire
 Processing search iteration: 300, Status: Duplicate City: esperance
 Processing search iteration: 301, Status: Duplicate City: barrow
-Processing search iteration: 302, Status: Success! The City Count is: 170 and the unique name is: namatanai
+Processing search iteration: 302, Status: Success! The City Count is: 197 and the unique name is: namatanai
 Processing search iteration: 303, Status: Duplicate City: busselton
 Processing search iteration: 304, Status: Duplicate City: east london
 Processing search iteration: 305, Status: Duplicate City: albany
 Processing search iteration: 306, Status: Duplicate City: ushuaia
 Processing search iteration: 307, Status: Duplicate City: qaanaaq
 Processing search iteration: 308, Status: Duplicate City: busselton
-Processing search iteration: 309, Status: Success! The City Count is: 171 and the unique name is: mbandaka
-Processing search iteration: 310, Status: Success! The City Count is: 172 and the unique name is: thio
-Processing search iteration: 311, Status: Success! The City Count is: 173 and the unique name is: caravelas
-Processing search iteration: 312, Status: Success! The City Count is: 174 and the unique name is: araouane
+Processing search iteration: 309, Status: Success! The City Count is: 198 and the unique name is: mbandaka
+Processing search iteration: 310, Status: Success! The City Count is: 199 and the unique name is: thio
+Processing search iteration: 311, Status: Success! The City Count is: 200 and the unique name is: caravelas
+Processing search iteration: 312, Status: Success! The City Count is: 201 and the unique name is: araouane
 Processing search iteration: 313, Status: Duplicate City: rikitea
 Processing search iteration: 314, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 315, Status: Success! The City Count is: 175 and the unique name is: dukat
+Processing search iteration: 315, Status: Success! The City Count is: 203 and the unique name is: dukat
 Processing search iteration: 316, Status: Duplicate City: ushuaia
-Processing search iteration: 317, Status: Success! The City Count is: 176 and the unique name is: agnibilekrou
+Processing search iteration: 317, Status: Success! The City Count is: 204 and the unique name is: agnibilekrou
 Processing search iteration: 318, Status: Duplicate City: ponta do sol
-Processing search iteration: 319, Status: Success! The City Count is: 177 and the unique name is: aksu
-Processing search iteration: 320, Status: Success! The City Count is: 178 and the unique name is: whyalla
-Processing search iteration: 321, Status: Success! The City Count is: 179 and the unique name is: kondoa
+Processing search iteration: 319, Status: Success! The City Count is: 205 and the unique name is: aksu
+Processing search iteration: 320, Status: Success! The City Count is: 206 and the unique name is: whyalla
+Processing search iteration: 321, Status: Success! The City Count is: 207 and the unique name is: kondoa
 Processing search iteration: 322, Status: Duplicate City: jamestown
-Processing search iteration: 323, Status: Success! The City Count is: 180 and the unique name is: faanui
-Processing search iteration: 324, Status: Success! The City Count is: 181 and the unique name is: malko tarnovo
-Processing search iteration: 325, Status: Success! The City Count is: 182 and the unique name is: dingle
-Processing search iteration: 326, Status: Success! The City Count is: 183 and the unique name is: obidos
+Processing search iteration: 323, Status: Success! The City Count is: 208 and the unique name is: faanui
+Processing search iteration: 324, Status: Success! The City Count is: 209 and the unique name is: malko tarnovo
+Processing search iteration: 325, Status: Success! The City Count is: 210 and the unique name is: dingle
+Processing search iteration: 326, Status: Success! The City Count is: 211 and the unique name is: obidos
 Processing search iteration: 327, Status: Duplicate City: ushuaia
 Processing search iteration: 328, Status: Key Error, OpenWeatherMap API could not find city: attawapiskat
-Processing search iteration: 329, Status: Success! The City Count is: 184 and the unique name is: bone
+Processing search iteration: 329, Status: Success! The City Count is: 213 and the unique name is: bone
 Processing search iteration: 330, Status: Duplicate City: qaanaaq
 Processing search iteration: 331, Status: Duplicate City: castro
 Processing search iteration: 332, Status: Key Error, OpenWeatherMap API could not find city: pribelskiy
-Processing search iteration: 333, Status: Success! The City Count is: 185 and the unique name is: mamallapuram
+Processing search iteration: 333, Status: Success! The City Count is: 215 and the unique name is: mamallapuram
 Processing search iteration: 334, Status: Duplicate City: puerto ayora
-Processing search iteration: 335, Status: Success! The City Count is: 186 and the unique name is: gobabis
+Processing search iteration: 335, Status: Success! The City Count is: 216 and the unique name is: gobabis
 Processing search iteration: 336, Status: Duplicate City: punta arenas
 Processing search iteration: 337, Status: Duplicate City: hithadhoo
 Processing search iteration: 338, Status: Duplicate City: airai
@@ -343,26 +343,26 @@ Processing search iteration: 341, Status: Duplicate City: ushuaia
 Processing search iteration: 342, Status: Duplicate City: hobart
 Processing search iteration: 343, Status: Duplicate City: saskylakh
 Processing search iteration: 344, Status: Duplicate City: tessalit
-Processing search iteration: 345, Status: Success! The City Count is: 187 and the unique name is: rio gallegos
+Processing search iteration: 345, Status: Success! The City Count is: 217 and the unique name is: rio gallegos
 Processing search iteration: 346, Status: Duplicate City: mar del plata
-Processing search iteration: 347, Status: Success! The City Count is: 188 and the unique name is: lagoa
+Processing search iteration: 347, Status: Success! The City Count is: 218 and the unique name is: lagoa
 Processing search iteration: 348, Status: Duplicate City: saskylakh
 Processing search iteration: 349, Status: Duplicate City: hamilton
-Processing search iteration: 350, Status: Success! The City Count is: 189 and the unique name is: sao jose da coroa grande
-Processing search iteration: 351, Status: Success! The City Count is: 190 and the unique name is: manado
+Processing search iteration: 350, Status: Success! The City Count is: 219 and the unique name is: sao jose da coroa grande
+Processing search iteration: 351, Status: Success! The City Count is: 220 and the unique name is: manado
 Processing search iteration: 352, Status: Duplicate City: dikson
-Processing search iteration: 353, Status: Success! The City Count is: 191 and the unique name is: karratha
-Processing search iteration: 354, Status: Success! The City Count is: 192 and the unique name is: kibaya
+Processing search iteration: 353, Status: Success! The City Count is: 221 and the unique name is: karratha
+Processing search iteration: 354, Status: Success! The City Count is: 222 and the unique name is: kibaya
 Processing search iteration: 355, Status: Duplicate City: yellowknife
 Processing search iteration: 356, Status: Duplicate City: rikitea
 Processing search iteration: 357, Status: Duplicate City: vaini
 Processing search iteration: 358, Status: Duplicate City: hobart
 Processing search iteration: 359, Status: Key Error, OpenWeatherMap API could not find city: malwan
-Processing search iteration: 360, Status: Success! The City Count is: 193 and the unique name is: saint-georges
-Processing search iteration: 361, Status: Success! The City Count is: 194 and the unique name is: east stroudsburg
+Processing search iteration: 360, Status: Success! The City Count is: 224 and the unique name is: saint-georges
+Processing search iteration: 361, Status: Success! The City Count is: 225 and the unique name is: east stroudsburg
 Processing search iteration: 362, Status: Duplicate City: avarua
 Processing search iteration: 363, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 364, Status: Success! The City Count is: 195 and the unique name is: waipawa
+Processing search iteration: 364, Status: Success! The City Count is: 227 and the unique name is: waipawa
 Processing search iteration: 365, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 366, Status: Duplicate City: puerto ayora
 Processing search iteration: 367, Status: Duplicate City: albany
@@ -374,13 +374,13 @@ Processing search iteration: 372, Status: Duplicate City: puerto ayora
 Processing search iteration: 373, Status: Key Error, OpenWeatherMap API could not find city: one hundred mile house
 Processing search iteration: 374, Status: Duplicate City: avarua
 Processing search iteration: 375, Status: Duplicate City: thompson
-Processing search iteration: 376, Status: Success! The City Count is: 196 and the unique name is: camopi
-Processing search iteration: 377, Status: Success! The City Count is: 197 and the unique name is: muromtsevo
+Processing search iteration: 376, Status: Success! The City Count is: 230 and the unique name is: camopi
+Processing search iteration: 377, Status: Success! The City Count is: 231 and the unique name is: muromtsevo
 Processing search iteration: 378, Status: Duplicate City: araouane
 Processing search iteration: 379, Status: Duplicate City: georgetown
 Processing search iteration: 380, Status: Duplicate City: atuona
 Processing search iteration: 381, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 382, Status: Success! The City Count is: 198 and the unique name is: petropavlovsk-kamchatskiy
+Processing search iteration: 382, Status: Success! The City Count is: 233 and the unique name is: petropavlovsk-kamchatskiy
 Processing search iteration: 383, Status: Duplicate City: east london
 Processing search iteration: 384, Status: Duplicate City: dikson
 Processing search iteration: 385, Status: Duplicate City: upernavik
@@ -392,60 +392,60 @@ Processing search iteration: 390, Status: Duplicate City: rikitea
 Processing search iteration: 391, Status: Duplicate City: carnarvon
 Processing search iteration: 392, Status: Duplicate City: mataura
 Processing search iteration: 393, Status: Duplicate City: tuatapere
-Processing search iteration: 394, Status: Success! The City Count is: 199 and the unique name is: shirokiy
-Processing search iteration: 395, Status: Success! The City Count is: 200 and the unique name is: san felipe
+Processing search iteration: 394, Status: Success! The City Count is: 234 and the unique name is: shirokiy
+Processing search iteration: 395, Status: Success! The City Count is: 235 and the unique name is: san felipe
 Processing search iteration: 396, Status: Duplicate City: hilo
 Processing search iteration: 397, Status: Duplicate City: bluff
 Processing search iteration: 398, Status: Duplicate City: albany
-Processing search iteration: 399, Status: Success! The City Count is: 201 and the unique name is: mahebourg
+Processing search iteration: 399, Status: Success! The City Count is: 236 and the unique name is: mahebourg
 Processing search iteration: 400, Status: Duplicate City: bethel
 Processing search iteration: 401, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 402, Status: Duplicate City: cape town
 Processing search iteration: 403, Status: Duplicate City: constitucion
 Processing search iteration: 404, Status: Duplicate City: hilo
-Processing search iteration: 405, Status: Success! The City Count is: 202 and the unique name is: fortuna
-Processing search iteration: 406, Status: Success! The City Count is: 203 and the unique name is: lubao
+Processing search iteration: 405, Status: Success! The City Count is: 238 and the unique name is: fortuna
+Processing search iteration: 406, Status: Success! The City Count is: 239 and the unique name is: lubao
 Processing search iteration: 407, Status: Duplicate City: saldanha
-Processing search iteration: 408, Status: Success! The City Count is: 204 and the unique name is: clovis
-Processing search iteration: 409, Status: Success! The City Count is: 205 and the unique name is: cabo san lucas
+Processing search iteration: 408, Status: Success! The City Count is: 240 and the unique name is: clovis
+Processing search iteration: 409, Status: Success! The City Count is: 241 and the unique name is: cabo san lucas
 Processing search iteration: 410, Status: Duplicate City: dingle
 Processing search iteration: 411, Status: Duplicate City: ilulissat
 Processing search iteration: 412, Status: Duplicate City: abha
 Processing search iteration: 413, Status: Duplicate City: dikson
 Processing search iteration: 414, Status: Duplicate City: yellowknife
 Processing search iteration: 415, Status: Duplicate City: albany
-Processing search iteration: 416, Status: Success! The City Count is: 206 and the unique name is: cherskiy
+Processing search iteration: 416, Status: Success! The City Count is: 242 and the unique name is: cherskiy
 Processing search iteration: 417, Status: Duplicate City: barrow
 Processing search iteration: 418, Status: Key Error, OpenWeatherMap API could not find city: alto baudo
-Processing search iteration: 419, Status: Success! The City Count is: 207 and the unique name is: bambous virieux
-Processing search iteration: 420, Status: Success! The City Count is: 208 and the unique name is: severo-kurilsk
+Processing search iteration: 419, Status: Success! The City Count is: 244 and the unique name is: bambous virieux
+Processing search iteration: 420, Status: Success! The City Count is: 245 and the unique name is: severo-kurilsk
 Processing search iteration: 421, Status: Duplicate City: cabo san lucas
-Processing search iteration: 422, Status: Success! The City Count is: 209 and the unique name is: tarumovka
+Processing search iteration: 422, Status: Success! The City Count is: 246 and the unique name is: tarumovka
 Processing search iteration: 423, Status: Duplicate City: rikitea
 Processing search iteration: 424, Status: Duplicate City: bredasdorp
 Processing search iteration: 425, Status: Duplicate City: longyearbyen
-Processing search iteration: 426, Status: Success! The City Count is: 210 and the unique name is: leibnitz
-Processing search iteration: 427, Status: Success! The City Count is: 211 and the unique name is: bereda
-Processing search iteration: 428, Status: Success! The City Count is: 212 and the unique name is: kalangala
+Processing search iteration: 426, Status: Success! The City Count is: 247 and the unique name is: leibnitz
+Processing search iteration: 427, Status: Success! The City Count is: 248 and the unique name is: bereda
+Processing search iteration: 428, Status: Success! The City Count is: 249 and the unique name is: kalangala
 Processing search iteration: 429, Status: Duplicate City: chokurdakh
 Processing search iteration: 430, Status: Duplicate City: bluff
-Processing search iteration: 431, Status: Success! The City Count is: 213 and the unique name is: coihaique
+Processing search iteration: 431, Status: Success! The City Count is: 250 and the unique name is: coihaique
 Processing search iteration: 432, Status: Key Error, OpenWeatherMap API could not find city: kinanah
 Processing search iteration: 433, Status: Duplicate City: hilo
-Processing search iteration: 434, Status: Success! The City Count is: 214 and the unique name is: visnes
-Processing search iteration: 435, Status: Success! The City Count is: 215 and the unique name is: nyurba
-Processing search iteration: 436, Status: Success! The City Count is: 216 and the unique name is: dera bugti
+Processing search iteration: 434, Status: Success! The City Count is: 252 and the unique name is: visnes
+Processing search iteration: 435, Status: Success! The City Count is: 253 and the unique name is: nyurba
+Processing search iteration: 436, Status: Success! The City Count is: 254 and the unique name is: dera bugti
 Processing search iteration: 437, Status: Duplicate City: mataura
 Processing search iteration: 438, Status: Duplicate City: mataura
 Processing search iteration: 439, Status: Key Error, OpenWeatherMap API could not find city: nizhneyansk
 Processing search iteration: 440, Status: Duplicate City: georgetown
-Processing search iteration: 441, Status: Success! The City Count is: 217 and the unique name is: nizwa
-Processing search iteration: 442, Status: Success! The City Count is: 218 and the unique name is: jumla
-Processing search iteration: 443, Status: Success! The City Count is: 219 and the unique name is: esperanza
+Processing search iteration: 441, Status: Success! The City Count is: 256 and the unique name is: nizwa
+Processing search iteration: 442, Status: Success! The City Count is: 257 and the unique name is: jumla
+Processing search iteration: 443, Status: Success! The City Count is: 258 and the unique name is: esperanza
 Processing search iteration: 444, Status: Duplicate City: butaritari
 Processing search iteration: 445, Status: Duplicate City: qaanaaq
 Processing search iteration: 446, Status: Duplicate City: ushuaia
-Processing search iteration: 447, Status: Success! The City Count is: 220 and the unique name is: sao lourenco da mata
+Processing search iteration: 447, Status: Success! The City Count is: 259 and the unique name is: sao lourenco da mata
 Processing search iteration: 448, Status: Duplicate City: castro
 Processing search iteration: 449, Status: Duplicate City: carnarvon
 Processing search iteration: 450, Status: Duplicate City: punta arenas
@@ -456,14 +456,14 @@ Processing search iteration: 454, Status: Duplicate City: tuktoyaktuk
 Processing search iteration: 455, Status: Duplicate City: ushuaia
 Processing search iteration: 456, Status: Duplicate City: port macquarie
 Processing search iteration: 457, Status: Duplicate City: bethel
-Processing search iteration: 458, Status: Success! The City Count is: 221 and the unique name is: oyama
-Processing search iteration: 459, Status: Success! The City Count is: 222 and the unique name is: trairi
-Processing search iteration: 460, Status: Success! The City Count is: 223 and the unique name is: emerald
-Processing search iteration: 461, Status: Success! The City Count is: 224 and the unique name is: labuhan
-Processing search iteration: 462, Status: Success! The City Count is: 225 and the unique name is: verkhnyaya salda
+Processing search iteration: 458, Status: Success! The City Count is: 261 and the unique name is: oyama
+Processing search iteration: 459, Status: Success! The City Count is: 262 and the unique name is: trairi
+Processing search iteration: 460, Status: Success! The City Count is: 263 and the unique name is: emerald
+Processing search iteration: 461, Status: Success! The City Count is: 264 and the unique name is: labuhan
+Processing search iteration: 462, Status: Success! The City Count is: 265 and the unique name is: verkhnyaya salda
 Processing search iteration: 463, Status: Duplicate City: upernavik
-Processing search iteration: 464, Status: Success! The City Count is: 226 and the unique name is: inuvik
-Processing search iteration: 465, Status: Success! The City Count is: 227 and the unique name is: hambantota
+Processing search iteration: 464, Status: Success! The City Count is: 266 and the unique name is: inuvik
+Processing search iteration: 465, Status: Success! The City Count is: 267 and the unique name is: hambantota
 Processing search iteration: 466, Status: Duplicate City: vaini
 Processing search iteration: 467, Status: Duplicate City: dikson
 Processing search iteration: 468, Status: Key Error, OpenWeatherMap API could not find city: nizhneyansk
@@ -474,43 +474,43 @@ Processing search iteration: 472, Status: Duplicate City: provideniya
 Processing search iteration: 473, Status: Duplicate City: oranjemund
 Processing search iteration: 474, Status: Duplicate City: bluff
 Processing search iteration: 475, Status: Duplicate City: bredasdorp
-Processing search iteration: 476, Status: Success! The City Count is: 228 and the unique name is: mehamn
+Processing search iteration: 476, Status: Success! The City Count is: 269 and the unique name is: mehamn
 Processing search iteration: 477, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 478, Status: Duplicate City: dikson
 Processing search iteration: 479, Status: Duplicate City: cherskiy
-Processing search iteration: 480, Status: Success! The City Count is: 229 and the unique name is: aleksinac
-Processing search iteration: 481, Status: Success! The City Count is: 230 and the unique name is: nynashamn
+Processing search iteration: 480, Status: Success! The City Count is: 271 and the unique name is: aleksinac
+Processing search iteration: 481, Status: Success! The City Count is: 272 and the unique name is: nynashamn
 Processing search iteration: 482, Status: Duplicate City: hobart
-Processing search iteration: 483, Status: Success! The City Count is: 231 and the unique name is: geraldton
+Processing search iteration: 483, Status: Success! The City Count is: 273 and the unique name is: geraldton
 Processing search iteration: 484, Status: Duplicate City: jamestown
 Processing search iteration: 485, Status: Duplicate City: albany
 Processing search iteration: 486, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 487, Status: Success! The City Count is: 232 and the unique name is: kurchum
+Processing search iteration: 487, Status: Success! The City Count is: 275 and the unique name is: kurchum
 Processing search iteration: 488, Status: Key Error, OpenWeatherMap API could not find city: saleaula
 Processing search iteration: 489, Status: Duplicate City: rikitea
 Processing search iteration: 490, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 491, Status: Success! The City Count is: 233 and the unique name is: luwuk
-Processing search iteration: 492, Status: Success! The City Count is: 234 and the unique name is: thinadhoo
-Processing search iteration: 493, Status: Success! The City Count is: 235 and the unique name is: ostrovnoy
-Processing search iteration: 494, Status: Success! The City Count is: 236 and the unique name is: shouguang
+Processing search iteration: 491, Status: Success! The City Count is: 278 and the unique name is: luwuk
+Processing search iteration: 492, Status: Success! The City Count is: 279 and the unique name is: thinadhoo
+Processing search iteration: 493, Status: Success! The City Count is: 280 and the unique name is: ostrovnoy
+Processing search iteration: 494, Status: Success! The City Count is: 281 and the unique name is: shouguang
 Processing search iteration: 495, Status: Duplicate City: new norfolk
-Processing search iteration: 496, Status: Success! The City Count is: 237 and the unique name is: bayshore gardens
-Processing search iteration: 497, Status: Success! The City Count is: 238 and the unique name is: blind river
+Processing search iteration: 496, Status: Success! The City Count is: 282 and the unique name is: bayshore gardens
+Processing search iteration: 497, Status: Success! The City Count is: 283 and the unique name is: blind river
 Processing search iteration: 498, Status: Duplicate City: ushuaia
 Processing search iteration: 499, Status: Duplicate City: victoria
 Processing search iteration: 500, Status: Duplicate City: cape town
-Processing search iteration: 501, Status: Success! The City Count is: 239 and the unique name is: carballo
+Processing search iteration: 501, Status: Success! The City Count is: 284 and the unique name is: carballo
 Processing search iteration: 502, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
-Processing search iteration: 503, Status: Success! The City Count is: 240 and the unique name is: chateau-gontier
-Processing search iteration: 504, Status: Success! The City Count is: 241 and the unique name is: verkhnyaya khava
+Processing search iteration: 503, Status: Success! The City Count is: 286 and the unique name is: chateau-gontier
+Processing search iteration: 504, Status: Success! The City Count is: 287 and the unique name is: verkhnyaya khava
 Processing search iteration: 505, Status: Duplicate City: tasiilaq
 Processing search iteration: 506, Status: Key Error, OpenWeatherMap API could not find city: karaul
-Processing search iteration: 507, Status: Success! The City Count is: 242 and the unique name is: princeton
+Processing search iteration: 507, Status: Success! The City Count is: 289 and the unique name is: princeton
 Processing search iteration: 508, Status: Duplicate City: punta arenas
 Processing search iteration: 509, Status: Key Error, OpenWeatherMap API could not find city: marcona
 Processing search iteration: 510, Status: Duplicate City: avarua
 Processing search iteration: 511, Status: Duplicate City: cape town
-Processing search iteration: 512, Status: Success! The City Count is: 243 and the unique name is: port lincoln
+Processing search iteration: 512, Status: Success! The City Count is: 291 and the unique name is: port lincoln
 Processing search iteration: 513, Status: Duplicate City: busselton
 Processing search iteration: 514, Status: Duplicate City: vaini
 Processing search iteration: 515, Status: Duplicate City: busselton
@@ -519,95 +519,95 @@ Processing search iteration: 517, Status: Duplicate City: khatanga
 Processing search iteration: 518, Status: Duplicate City: hilo
 Processing search iteration: 519, Status: Duplicate City: busselton
 Processing search iteration: 520, Status: Duplicate City: cape town
-Processing search iteration: 521, Status: Success! The City Count is: 244 and the unique name is: barcelos
-Processing search iteration: 522, Status: Success! The City Count is: 245 and the unique name is: college
+Processing search iteration: 521, Status: Success! The City Count is: 292 and the unique name is: barcelos
+Processing search iteration: 522, Status: Success! The City Count is: 293 and the unique name is: college
 Processing search iteration: 523, Status: Duplicate City: rikitea
-Processing search iteration: 524, Status: Success! The City Count is: 246 and the unique name is: great bend
-Processing search iteration: 525, Status: Success! The City Count is: 247 and the unique name is: halmstad
+Processing search iteration: 524, Status: Success! The City Count is: 294 and the unique name is: great bend
+Processing search iteration: 525, Status: Success! The City Count is: 295 and the unique name is: halmstad
 Processing search iteration: 526, Status: Duplicate City: chokurdakh
-Processing search iteration: 527, Status: Success! The City Count is: 248 and the unique name is: cimarron hills
+Processing search iteration: 527, Status: Success! The City Count is: 296 and the unique name is: cimarron hills
 Processing search iteration: 528, Status: Duplicate City: yellowknife
 Processing search iteration: 529, Status: Duplicate City: mahebourg
-Processing search iteration: 530, Status: Success! The City Count is: 249 and the unique name is: antofagasta
+Processing search iteration: 530, Status: Success! The City Count is: 297 and the unique name is: antofagasta
 Processing search iteration: 531, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
 Processing search iteration: 532, Status: Duplicate City: nikolskoye
-Processing search iteration: 533, Status: Success! The City Count is: 250 and the unique name is: vanimo
+Processing search iteration: 533, Status: Success! The City Count is: 299 and the unique name is: vanimo
 Processing search iteration: 534, Status: Duplicate City: ilulissat
-Processing search iteration: 535, Status: Success! The City Count is: 251 and the unique name is: naze
+Processing search iteration: 535, Status: Success! The City Count is: 300 and the unique name is: naze
 Processing search iteration: 536, Status: Duplicate City: vaini
-Processing search iteration: 537, Status: Success! The City Count is: 252 and the unique name is: taoudenni
+Processing search iteration: 537, Status: Success! The City Count is: 301 and the unique name is: taoudenni
 Processing search iteration: 538, Status: Duplicate City: bluff
-Processing search iteration: 539, Status: Success! The City Count is: 253 and the unique name is: darlowo
+Processing search iteration: 539, Status: Success! The City Count is: 302 and the unique name is: darlowo
 Processing search iteration: 540, Status: Duplicate City: chuy
 Processing search iteration: 541, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 542, Status: Duplicate City: georgetown
-Processing search iteration: 543, Status: Success! The City Count is: 254 and the unique name is: alpena
+Processing search iteration: 543, Status: Success! The City Count is: 304 and the unique name is: alpena
 Processing search iteration: 544, Status: Duplicate City: jamestown
 Processing search iteration: 545, Status: Duplicate City: carnarvon
 Processing search iteration: 546, Status: Duplicate City: bluff
 Processing search iteration: 547, Status: Duplicate City: qaanaaq
-Processing search iteration: 548, Status: Success! The City Count is: 255 and the unique name is: challans
-Processing search iteration: 549, Status: Success! The City Count is: 256 and the unique name is: manokwari
-Processing search iteration: 550, Status: Success! The City Count is: 257 and the unique name is: banfora
+Processing search iteration: 548, Status: Success! The City Count is: 305 and the unique name is: challans
+Processing search iteration: 549, Status: Success! The City Count is: 306 and the unique name is: manokwari
+Processing search iteration: 550, Status: Success! The City Count is: 307 and the unique name is: banfora
 Processing search iteration: 551, Status: Duplicate City: tasiilaq
 Processing search iteration: 552, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 553, Status: Success! The City Count is: 258 and the unique name is: kopavogur
-Processing search iteration: 554, Status: Success! The City Count is: 259 and the unique name is: road town
-Processing search iteration: 555, Status: Success! The City Count is: 260 and the unique name is: perth
+Processing search iteration: 553, Status: Success! The City Count is: 309 and the unique name is: kopavogur
+Processing search iteration: 554, Status: Success! The City Count is: 310 and the unique name is: road town
+Processing search iteration: 555, Status: Success! The City Count is: 311 and the unique name is: perth
 Processing search iteration: 556, Status: Duplicate City: qaanaaq
 Processing search iteration: 557, Status: Duplicate City: hobart
 Processing search iteration: 558, Status: Duplicate City: butaritari
 Processing search iteration: 559, Status: Duplicate City: chuy
 Processing search iteration: 560, Status: Duplicate City: airai
-Processing search iteration: 561, Status: Success! The City Count is: 261 and the unique name is: lovozero
+Processing search iteration: 561, Status: Success! The City Count is: 312 and the unique name is: lovozero
 Processing search iteration: 562, Status: Duplicate City: castro
 Processing search iteration: 563, Status: Duplicate City: jamestown
 Processing search iteration: 564, Status: Duplicate City: rikitea
 Processing search iteration: 565, Status: Duplicate City: barrow
 Processing search iteration: 566, Status: Duplicate City: lebu
-Processing search iteration: 567, Status: Success! The City Count is: 262 and the unique name is: jaragua
-Processing search iteration: 568, Status: Success! The City Count is: 263 and the unique name is: hammerfest
-Processing search iteration: 569, Status: Success! The City Count is: 264 and the unique name is: solone
+Processing search iteration: 567, Status: Success! The City Count is: 313 and the unique name is: jaragua
+Processing search iteration: 568, Status: Success! The City Count is: 314 and the unique name is: hammerfest
+Processing search iteration: 569, Status: Success! The City Count is: 315 and the unique name is: solone
 Processing search iteration: 570, Status: Duplicate City: mataura
-Processing search iteration: 571, Status: Success! The City Count is: 265 and the unique name is: sao filipe
+Processing search iteration: 571, Status: Success! The City Count is: 316 and the unique name is: sao filipe
 Processing search iteration: 572, Status: Duplicate City: mar del plata
 Processing search iteration: 573, Status: Key Error, OpenWeatherMap API could not find city: dinsor
-Processing search iteration: 574, Status: Success! The City Count is: 266 and the unique name is: kieta
+Processing search iteration: 574, Status: Success! The City Count is: 318 and the unique name is: kieta
 Processing search iteration: 575, Status: Duplicate City: kapaa
 Processing search iteration: 576, Status: Duplicate City: port alfred
-Processing search iteration: 577, Status: Success! The City Count is: 267 and the unique name is: dzilam gonzalez
+Processing search iteration: 577, Status: Success! The City Count is: 319 and the unique name is: dzilam gonzalez
 Processing search iteration: 578, Status: Duplicate City: jamestown
 Processing search iteration: 579, Status: Duplicate City: mataura
-Processing search iteration: 580, Status: Success! The City Count is: 268 and the unique name is: lompoc
+Processing search iteration: 580, Status: Success! The City Count is: 320 and the unique name is: lompoc
 Processing search iteration: 581, Status: Duplicate City: punta arenas
-Processing search iteration: 582, Status: Success! The City Count is: 269 and the unique name is: gogrial
+Processing search iteration: 582, Status: Success! The City Count is: 321 and the unique name is: gogrial
 Processing search iteration: 583, Status: Duplicate City: jamestown
 Processing search iteration: 584, Status: Duplicate City: barrow
 Processing search iteration: 585, Status: Duplicate City: kapaa
 Processing search iteration: 586, Status: Duplicate City: punta arenas
-Processing search iteration: 587, Status: Success! The City Count is: 270 and the unique name is: gazli
+Processing search iteration: 587, Status: Success! The City Count is: 322 and the unique name is: gazli
 Processing search iteration: 588, Status: Duplicate City: atuona
-Processing search iteration: 589, Status: Success! The City Count is: 271 and the unique name is: gao
+Processing search iteration: 589, Status: Success! The City Count is: 323 and the unique name is: gao
 Processing search iteration: 590, Status: Duplicate City: bluff
-Processing search iteration: 591, Status: Success! The City Count is: 272 and the unique name is: san patricio
-Processing search iteration: 592, Status: Success! The City Count is: 273 and the unique name is: valle hermoso
+Processing search iteration: 591, Status: Success! The City Count is: 324 and the unique name is: san patricio
+Processing search iteration: 592, Status: Success! The City Count is: 325 and the unique name is: valle hermoso
 Processing search iteration: 593, Status: Duplicate City: hambantota
 Processing search iteration: 594, Status: Duplicate City: bluff
-Processing search iteration: 595, Status: Success! The City Count is: 274 and the unique name is: baykit
+Processing search iteration: 595, Status: Success! The City Count is: 326 and the unique name is: baykit
 Processing search iteration: 596, Status: Duplicate City: dikson
-Processing search iteration: 597, Status: Success! The City Count is: 275 and the unique name is: itarema
+Processing search iteration: 597, Status: Success! The City Count is: 327 and the unique name is: itarema
 Processing search iteration: 598, Status: Duplicate City: butaritari
 Processing search iteration: 599, Status: Duplicate City: mataura
 Processing search iteration: 600, Status: Duplicate City: yellowknife
-Processing search iteration: 601, Status: Success! The City Count is: 276 and the unique name is: sao joao da barra
+Processing search iteration: 601, Status: Success! The City Count is: 328 and the unique name is: sao joao da barra
 Processing search iteration: 602, Status: Duplicate City: carnarvon
 Processing search iteration: 603, Status: Key Error, OpenWeatherMap API could not find city: rungata
 Processing search iteration: 604, Status: Duplicate City: ushuaia
 Processing search iteration: 605, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 606, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
 Processing search iteration: 607, Status: Duplicate City: thompson
-Processing search iteration: 608, Status: Success! The City Count is: 277 and the unique name is: preston
-Processing search iteration: 609, Status: Success! The City Count is: 278 and the unique name is: half moon bay
+Processing search iteration: 608, Status: Success! The City Count is: 332 and the unique name is: preston
+Processing search iteration: 609, Status: Success! The City Count is: 333 and the unique name is: half moon bay
 Processing search iteration: 610, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
 Processing search iteration: 611, Status: Duplicate City: chokurdakh
 Processing search iteration: 612, Status: Duplicate City: bredasdorp
@@ -617,7 +617,7 @@ Processing search iteration: 615, Status: Duplicate City: cidreira
 Processing search iteration: 616, Status: Duplicate City: ostrovnoy
 Processing search iteration: 617, Status: Duplicate City: mizdah
 Processing search iteration: 618, Status: Duplicate City: lebu
-Processing search iteration: 619, Status: Success! The City Count is: 279 and the unique name is: tongchuan
+Processing search iteration: 619, Status: Success! The City Count is: 335 and the unique name is: tongchuan
 Processing search iteration: 620, Status: Duplicate City: rapid valley
 Processing search iteration: 621, Status: Duplicate City: saldanha
 Processing search iteration: 622, Status: Key Error, OpenWeatherMap API could not find city: vaitupu
@@ -625,41 +625,41 @@ Processing search iteration: 623, Status: Key Error, OpenWeatherMap API could no
 Processing search iteration: 624, Status: Duplicate City: saint-philippe
 Processing search iteration: 625, Status: Duplicate City: albany
 Processing search iteration: 626, Status: Duplicate City: albany
-Processing search iteration: 627, Status: Success! The City Count is: 280 and the unique name is: nogent-le-rotrou
-Processing search iteration: 628, Status: Success! The City Count is: 281 and the unique name is: lasa
-Processing search iteration: 629, Status: Success! The City Count is: 282 and the unique name is: tongliao
+Processing search iteration: 627, Status: Success! The City Count is: 338 and the unique name is: nogent-le-rotrou
+Processing search iteration: 628, Status: Success! The City Count is: 339 and the unique name is: lasa
+Processing search iteration: 629, Status: Success! The City Count is: 340 and the unique name is: tongliao
 Processing search iteration: 630, Status: Duplicate City: punta arenas
-Processing search iteration: 631, Status: Success! The City Count is: 283 and the unique name is: kenai
+Processing search iteration: 631, Status: Success! The City Count is: 341 and the unique name is: kenai
 Processing search iteration: 632, Status: Duplicate City: mataura
 Processing search iteration: 633, Status: Duplicate City: punta arenas
 Processing search iteration: 634, Status: Duplicate City: chokurdakh
-Processing search iteration: 635, Status: Success! The City Count is: 284 and the unique name is: adrar
+Processing search iteration: 635, Status: Success! The City Count is: 342 and the unique name is: adrar
 Processing search iteration: 636, Status: Duplicate City: naze
 Processing search iteration: 637, Status: Duplicate City: georgetown
 Processing search iteration: 638, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 639, Status: Duplicate City: lebu
 Processing search iteration: 640, Status: Duplicate City: bredasdorp
-Processing search iteration: 641, Status: Success! The City Count is: 285 and the unique name is: nizhniy baskunchak
+Processing search iteration: 641, Status: Success! The City Count is: 344 and the unique name is: nizhniy baskunchak
 Processing search iteration: 642, Status: Duplicate City: atuona
-Processing search iteration: 643, Status: Success! The City Count is: 286 and the unique name is: mayna
-Processing search iteration: 644, Status: Success! The City Count is: 287 and the unique name is: ardakan
-Processing search iteration: 645, Status: Success! The City Count is: 288 and the unique name is: xuddur
-Processing search iteration: 646, Status: Success! The City Count is: 289 and the unique name is: grindavik
+Processing search iteration: 643, Status: Success! The City Count is: 345 and the unique name is: mayna
+Processing search iteration: 644, Status: Success! The City Count is: 346 and the unique name is: ardakan
+Processing search iteration: 645, Status: Success! The City Count is: 347 and the unique name is: xuddur
+Processing search iteration: 646, Status: Success! The City Count is: 348 and the unique name is: grindavik
 Processing search iteration: 647, Status: Duplicate City: qaanaaq
 Processing search iteration: 648, Status: Duplicate City: port alfred
 Processing search iteration: 649, Status: Duplicate City: tuatapere
-Processing search iteration: 650, Status: Success! The City Count is: 290 and the unique name is: russell
-Processing search iteration: 651, Status: Success! The City Count is: 291 and the unique name is: kamenka
+Processing search iteration: 650, Status: Success! The City Count is: 349 and the unique name is: russell
+Processing search iteration: 651, Status: Success! The City Count is: 350 and the unique name is: kamenka
 Processing search iteration: 652, Status: Duplicate City: avarua
 Processing search iteration: 653, Status: Duplicate City: tasiilaq
-Processing search iteration: 654, Status: Success! The City Count is: 292 and the unique name is: saint george
-Processing search iteration: 655, Status: Success! The City Count is: 293 and the unique name is: ribeira grande
-Processing search iteration: 656, Status: Success! The City Count is: 294 and the unique name is: arraial do cabo
+Processing search iteration: 654, Status: Success! The City Count is: 351 and the unique name is: saint george
+Processing search iteration: 655, Status: Success! The City Count is: 352 and the unique name is: ribeira grande
+Processing search iteration: 656, Status: Success! The City Count is: 353 and the unique name is: arraial do cabo
 Processing search iteration: 657, Status: Key Error, OpenWeatherMap API could not find city: sinkat
-Processing search iteration: 658, Status: Success! The City Count is: 295 and the unique name is: maumere
-Processing search iteration: 659, Status: Success! The City Count is: 296 and the unique name is: verkhnyaya inta
-Processing search iteration: 660, Status: Success! The City Count is: 297 and the unique name is: aasiaat
-Processing search iteration: 661, Status: Success! The City Count is: 298 and the unique name is: novoilinsk
+Processing search iteration: 658, Status: Success! The City Count is: 355 and the unique name is: maumere
+Processing search iteration: 659, Status: Success! The City Count is: 356 and the unique name is: verkhnyaya inta
+Processing search iteration: 660, Status: Success! The City Count is: 357 and the unique name is: aasiaat
+Processing search iteration: 661, Status: Success! The City Count is: 358 and the unique name is: novoilinsk
 Processing search iteration: 662, Status: Duplicate City: nikolskoye
 Processing search iteration: 663, Status: Duplicate City: new norfolk
 Processing search iteration: 664, Status: Duplicate City: puerto ayora
@@ -667,16 +667,16 @@ Processing search iteration: 665, Status: Duplicate City: vaini
 Processing search iteration: 666, Status: Duplicate City: lasa
 Processing search iteration: 667, Status: Duplicate City: avarua
 Processing search iteration: 668, Status: Duplicate City: ushuaia
-Processing search iteration: 669, Status: Success! The City Count is: 299 and the unique name is: kondinskoye
+Processing search iteration: 669, Status: Success! The City Count is: 359 and the unique name is: kondinskoye
 Processing search iteration: 670, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 671, Status: Duplicate City: lebu
 Processing search iteration: 672, Status: Duplicate City: yellowknife
-Processing search iteration: 673, Status: Success! The City Count is: 300 and the unique name is: lufilufi
-Processing search iteration: 674, Status: Success! The City Count is: 301 and the unique name is: strezhevoy
-Processing search iteration: 675, Status: Success! The City Count is: 302 and the unique name is: vila
+Processing search iteration: 673, Status: Success! The City Count is: 361 and the unique name is: lufilufi
+Processing search iteration: 674, Status: Success! The City Count is: 362 and the unique name is: strezhevoy
+Processing search iteration: 675, Status: Success! The City Count is: 363 and the unique name is: vila
 Processing search iteration: 676, Status: Duplicate City: kapaa
 Processing search iteration: 677, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 678, Status: Success! The City Count is: 303 and the unique name is: senneterre
+Processing search iteration: 678, Status: Success! The City Count is: 365 and the unique name is: senneterre
 Processing search iteration: 679, Status: Key Error, OpenWeatherMap API could not find city: tsihombe
 Processing search iteration: 680, Status: Duplicate City: atuona
 Processing search iteration: 681, Status: Duplicate City: qaanaaq
@@ -687,35 +687,35 @@ Processing search iteration: 685, Status: Duplicate City: faanui
 Processing search iteration: 686, Status: Duplicate City: upernavik
 Processing search iteration: 687, Status: Duplicate City: pevek
 Processing search iteration: 688, Status: Duplicate City: cape town
-Processing search iteration: 689, Status: Success! The City Count is: 304 and the unique name is: kuandian
+Processing search iteration: 689, Status: Success! The City Count is: 368 and the unique name is: kuandian
 Processing search iteration: 690, Status: Duplicate City: mataura
-Processing search iteration: 691, Status: Success! The City Count is: 305 and the unique name is: hollister
+Processing search iteration: 691, Status: Success! The City Count is: 369 and the unique name is: hollister
 Processing search iteration: 692, Status: Duplicate City: new norfolk
 Processing search iteration: 693, Status: Duplicate City: bluff
 Processing search iteration: 694, Status: Key Error, OpenWeatherMap API could not find city: saleaula
 Processing search iteration: 695, Status: Duplicate City: bredasdorp
-Processing search iteration: 696, Status: Success! The City Count is: 306 and the unique name is: maloy
-Processing search iteration: 697, Status: Success! The City Count is: 307 and the unique name is: beauceville
+Processing search iteration: 696, Status: Success! The City Count is: 371 and the unique name is: maloy
+Processing search iteration: 697, Status: Success! The City Count is: 372 and the unique name is: beauceville
 Processing search iteration: 698, Status: Duplicate City: port elizabeth
 Processing search iteration: 699, Status: Duplicate City: saskylakh
-Processing search iteration: 700, Status: Success! The City Count is: 308 and the unique name is: talnakh
+Processing search iteration: 700, Status: Success! The City Count is: 373 and the unique name is: talnakh
 Processing search iteration: 701, Status: Duplicate City: bambous virieux
 Processing search iteration: 702, Status: Duplicate City: torbay
-Processing search iteration: 703, Status: Success! The City Count is: 309 and the unique name is: bud
-Processing search iteration: 704, Status: Success! The City Count is: 310 and the unique name is: west melbourne
-Processing search iteration: 705, Status: Success! The City Count is: 311 and the unique name is: omboue
+Processing search iteration: 703, Status: Success! The City Count is: 374 and the unique name is: bud
+Processing search iteration: 704, Status: Success! The City Count is: 375 and the unique name is: west melbourne
+Processing search iteration: 705, Status: Success! The City Count is: 376 and the unique name is: omboue
 Processing search iteration: 706, Status: Duplicate City: rikitea
-Processing search iteration: 707, Status: Success! The City Count is: 312 and the unique name is: sakakah
+Processing search iteration: 707, Status: Success! The City Count is: 377 and the unique name is: sakakah
 Processing search iteration: 708, Status: Duplicate City: jamestown
 Processing search iteration: 709, Status: Duplicate City: georgetown
-Processing search iteration: 710, Status: Success! The City Count is: 313 and the unique name is: dhanera
-Processing search iteration: 711, Status: Success! The City Count is: 314 and the unique name is: ternate
+Processing search iteration: 710, Status: Success! The City Count is: 378 and the unique name is: dhanera
+Processing search iteration: 711, Status: Success! The City Count is: 379 and the unique name is: ternate
 Processing search iteration: 712, Status: Duplicate City: ushuaia
 Processing search iteration: 713, Status: Duplicate City: jamestown
-Processing search iteration: 714, Status: Success! The City Count is: 315 and the unique name is: ipora
+Processing search iteration: 714, Status: Success! The City Count is: 380 and the unique name is: ipora
 Processing search iteration: 715, Status: Duplicate City: bluff
 Processing search iteration: 716, Status: Duplicate City: isangel
-Processing search iteration: 717, Status: Success! The City Count is: 316 and the unique name is: praia da vitoria
+Processing search iteration: 717, Status: Success! The City Count is: 381 and the unique name is: praia da vitoria
 Processing search iteration: 718, Status: Duplicate City: albany
 Processing search iteration: 719, Status: Duplicate City: torbay
 Processing search iteration: 720, Status: Duplicate City: rikitea
@@ -725,24 +725,24 @@ Processing search iteration: 723, Status: Duplicate City: lasa
 Processing search iteration: 724, Status: Duplicate City: castro
 Processing search iteration: 725, Status: Duplicate City: leningradskiy
 Processing search iteration: 726, Status: Duplicate City: chuy
-Processing search iteration: 727, Status: Success! The City Count is: 317 and the unique name is: corinth
-Processing search iteration: 728, Status: Success! The City Count is: 318 and the unique name is: amapa
-Processing search iteration: 729, Status: Success! The City Count is: 319 and the unique name is: balkanabat
+Processing search iteration: 727, Status: Success! The City Count is: 382 and the unique name is: corinth
+Processing search iteration: 728, Status: Success! The City Count is: 383 and the unique name is: amapa
+Processing search iteration: 729, Status: Success! The City Count is: 384 and the unique name is: balkanabat
 Processing search iteration: 730, Status: Duplicate City: arraial do cabo
-Processing search iteration: 731, Status: Success! The City Count is: 320 and the unique name is: parrita
+Processing search iteration: 731, Status: Success! The City Count is: 385 and the unique name is: parrita
 Processing search iteration: 732, Status: Duplicate City: shimoda
 Processing search iteration: 733, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
 Processing search iteration: 734, Status: Duplicate City: tuatapere
-Processing search iteration: 735, Status: Success! The City Count is: 321 and the unique name is: salinopolis
+Processing search iteration: 735, Status: Success! The City Count is: 387 and the unique name is: salinopolis
 Processing search iteration: 736, Status: Duplicate City: nome
 Processing search iteration: 737, Status: Duplicate City: san patricio
-Processing search iteration: 738, Status: Success! The City Count is: 322 and the unique name is: shiyan
+Processing search iteration: 738, Status: Success! The City Count is: 388 and the unique name is: shiyan
 Processing search iteration: 739, Status: Duplicate City: atuona
-Processing search iteration: 740, Status: Success! The City Count is: 323 and the unique name is: kruisfontein
+Processing search iteration: 740, Status: Success! The City Count is: 389 and the unique name is: kruisfontein
 Processing search iteration: 741, Status: Duplicate City: lebu
 Processing search iteration: 742, Status: Duplicate City: castro
 Processing search iteration: 743, Status: Duplicate City: dingle
-Processing search iteration: 744, Status: Success! The City Count is: 324 and the unique name is: yeppoon
+Processing search iteration: 744, Status: Success! The City Count is: 390 and the unique name is: yeppoon
 Processing search iteration: 745, Status: Duplicate City: dikson
 Processing search iteration: 746, Status: Duplicate City: mar del plata
 Processing search iteration: 747, Status: Key Error, OpenWeatherMap API could not find city: sentyabrskiy
@@ -753,47 +753,47 @@ Processing search iteration: 751, Status: Duplicate City: leningradskiy
 Processing search iteration: 752, Status: Duplicate City: jamestown
 Processing search iteration: 753, Status: Duplicate City: ushuaia
 Processing search iteration: 754, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 755, Status: Success! The City Count is: 325 and the unique name is: cestas
-Processing search iteration: 756, Status: Success! The City Count is: 326 and the unique name is: ayagoz
-Processing search iteration: 757, Status: Success! The City Count is: 327 and the unique name is: aitape
+Processing search iteration: 755, Status: Success! The City Count is: 393 and the unique name is: cestas
+Processing search iteration: 756, Status: Success! The City Count is: 394 and the unique name is: ayagoz
+Processing search iteration: 757, Status: Success! The City Count is: 395 and the unique name is: aitape
 Processing search iteration: 758, Status: Duplicate City: punta arenas
 Processing search iteration: 759, Status: Duplicate City: vaini
-Processing search iteration: 760, Status: Success! The City Count is: 328 and the unique name is: homer
+Processing search iteration: 760, Status: Success! The City Count is: 396 and the unique name is: homer
 Processing search iteration: 761, Status: Duplicate City: tasiilaq
 Processing search iteration: 762, Status: Duplicate City: nikolskoye
-Processing search iteration: 763, Status: Success! The City Count is: 329 and the unique name is: nouadhibou
+Processing search iteration: 763, Status: Success! The City Count is: 397 and the unique name is: nouadhibou
 Processing search iteration: 764, Status: Duplicate City: rikitea
 Processing search iteration: 765, Status: Duplicate City: albany
 Processing search iteration: 766, Status: Duplicate City: saint anthony
-Processing search iteration: 767, Status: Success! The City Count is: 330 and the unique name is: orange
-Processing search iteration: 768, Status: Success! The City Count is: 331 and the unique name is: gold coast
+Processing search iteration: 767, Status: Success! The City Count is: 398 and the unique name is: orange
+Processing search iteration: 768, Status: Success! The City Count is: 399 and the unique name is: gold coast
 Processing search iteration: 769, Status: Duplicate City: severo-kurilsk
 Processing search iteration: 770, Status: Duplicate City: saint george
-Processing search iteration: 771, Status: Success! The City Count is: 332 and the unique name is: antalaha
+Processing search iteration: 771, Status: Success! The City Count is: 400 and the unique name is: antalaha
 Processing search iteration: 772, Status: Duplicate City: port alfred
 Processing search iteration: 773, Status: Duplicate City: albany
 Processing search iteration: 774, Status: Duplicate City: ushuaia
 Processing search iteration: 775, Status: Duplicate City: cape town
-Processing search iteration: 776, Status: Success! The City Count is: 333 and the unique name is: anchorage
-Processing search iteration: 777, Status: Success! The City Count is: 334 and the unique name is: aklavik
-Processing search iteration: 778, Status: Success! The City Count is: 335 and the unique name is: sun valley
+Processing search iteration: 776, Status: Success! The City Count is: 401 and the unique name is: anchorage
+Processing search iteration: 777, Status: Success! The City Count is: 402 and the unique name is: aklavik
+Processing search iteration: 778, Status: Success! The City Count is: 403 and the unique name is: sun valley
 Processing search iteration: 779, Status: Key Error, OpenWeatherMap API could not find city: sentyabrskiy
-Processing search iteration: 780, Status: Success! The City Count is: 336 and the unique name is: korampallam
+Processing search iteration: 780, Status: Success! The City Count is: 405 and the unique name is: korampallam
 Processing search iteration: 781, Status: Duplicate City: victoria
-Processing search iteration: 782, Status: Success! The City Count is: 337 and the unique name is: fairbanks
-Processing search iteration: 783, Status: Success! The City Count is: 338 and the unique name is: lavrentiya
-Processing search iteration: 784, Status: Success! The City Count is: 339 and the unique name is: sucha beskidzka
-Processing search iteration: 785, Status: Success! The City Count is: 340 and the unique name is: puerto cabezas
+Processing search iteration: 782, Status: Success! The City Count is: 406 and the unique name is: fairbanks
+Processing search iteration: 783, Status: Success! The City Count is: 407 and the unique name is: lavrentiya
+Processing search iteration: 784, Status: Success! The City Count is: 408 and the unique name is: sucha beskidzka
+Processing search iteration: 785, Status: Success! The City Count is: 409 and the unique name is: puerto cabezas
 Processing search iteration: 786, Status: Duplicate City: atuona
-Processing search iteration: 787, Status: Success! The City Count is: 341 and the unique name is: tawang
+Processing search iteration: 787, Status: Success! The City Count is: 410 and the unique name is: tawang
 Processing search iteration: 788, Status: Duplicate City: severo-kurilsk
 Processing search iteration: 789, Status: Duplicate City: punta arenas
 Processing search iteration: 790, Status: Duplicate City: bluff
 Processing search iteration: 791, Status: Duplicate City: punta arenas
 Processing search iteration: 792, Status: Duplicate City: abha
 Processing search iteration: 793, Status: Duplicate City: kapaa
-Processing search iteration: 794, Status: Success! The City Count is: 342 and the unique name is: pacific grove
-Processing search iteration: 795, Status: Success! The City Count is: 343 and the unique name is: norman wells
+Processing search iteration: 794, Status: Success! The City Count is: 411 and the unique name is: pacific grove
+Processing search iteration: 795, Status: Success! The City Count is: 412 and the unique name is: norman wells
 Processing search iteration: 796, Status: Duplicate City: saskylakh
 Processing search iteration: 797, Status: Duplicate City: katsuura
 Processing search iteration: 798, Status: Key Error, OpenWeatherMap API could not find city: mys shmidta
@@ -801,9 +801,9 @@ Processing search iteration: 799, Status: Key Error, OpenWeatherMap API could no
 Processing search iteration: 800, Status: Duplicate City: ribeira grande
 Processing search iteration: 801, Status: Duplicate City: ancud
 Processing search iteration: 802, Status: Duplicate City: busselton
-Processing search iteration: 803, Status: Success! The City Count is: 344 and the unique name is: kavieng
-Processing search iteration: 804, Status: Success! The City Count is: 345 and the unique name is: shubarkuduk
-Processing search iteration: 805, Status: Success! The City Count is: 346 and the unique name is: atar
+Processing search iteration: 803, Status: Success! The City Count is: 415 and the unique name is: kavieng
+Processing search iteration: 804, Status: Success! The City Count is: 416 and the unique name is: shubarkuduk
+Processing search iteration: 805, Status: Success! The City Count is: 417 and the unique name is: atar
 Processing search iteration: 806, Status: Duplicate City: kapaa
 Processing search iteration: 807, Status: Duplicate City: chuy
 Processing search iteration: 808, Status: Duplicate City: hithadhoo
@@ -811,102 +811,102 @@ Processing search iteration: 809, Status: Duplicate City: atuona
 Processing search iteration: 810, Status: Duplicate City: ushuaia
 Processing search iteration: 811, Status: Duplicate City: meulaboh
 Processing search iteration: 812, Status: Duplicate City: punta arenas
-Processing search iteration: 813, Status: Success! The City Count is: 347 and the unique name is: harper
-Processing search iteration: 814, Status: Success! The City Count is: 348 and the unique name is: paramirim
+Processing search iteration: 813, Status: Success! The City Count is: 418 and the unique name is: harper
+Processing search iteration: 814, Status: Success! The City Count is: 419 and the unique name is: paramirim
 Processing search iteration: 815, Status: Duplicate City: cape town
 Processing search iteration: 816, Status: Duplicate City: college
 Processing search iteration: 817, Status: Duplicate City: longyearbyen
 Processing search iteration: 818, Status: Duplicate City: isangel
 Processing search iteration: 819, Status: Duplicate City: kruisfontein
-Processing search iteration: 820, Status: Success! The City Count is: 349 and the unique name is: bilma
+Processing search iteration: 820, Status: Success! The City Count is: 420 and the unique name is: bilma
 Processing search iteration: 821, Status: Duplicate City: qaanaaq
 Processing search iteration: 822, Status: Duplicate City: albany
 Processing search iteration: 823, Status: Duplicate City: kapaa
 Processing search iteration: 824, Status: Duplicate City: bredasdorp
-Processing search iteration: 825, Status: Success! The City Count is: 350 and the unique name is: saint-tite
+Processing search iteration: 825, Status: Success! The City Count is: 421 and the unique name is: saint-tite
 Processing search iteration: 826, Status: Duplicate City: bluff
-Processing search iteration: 827, Status: Success! The City Count is: 351 and the unique name is: stephenville
-Processing search iteration: 828, Status: Success! The City Count is: 352 and the unique name is: vila velha
+Processing search iteration: 827, Status: Success! The City Count is: 422 and the unique name is: stephenville
+Processing search iteration: 828, Status: Success! The City Count is: 423 and the unique name is: vila velha
 Processing search iteration: 829, Status: Duplicate City: castro
 Processing search iteration: 830, Status: Duplicate City: yellowknife
-Processing search iteration: 831, Status: Success! The City Count is: 353 and the unique name is: rantepao
+Processing search iteration: 831, Status: Success! The City Count is: 424 and the unique name is: rantepao
 Processing search iteration: 832, Status: Duplicate City: mataura
-Processing search iteration: 833, Status: Success! The City Count is: 354 and the unique name is: quzhou
-Processing search iteration: 834, Status: Success! The City Count is: 355 and the unique name is: salalah
-Processing search iteration: 835, Status: Success! The City Count is: 356 and the unique name is: neiafu
+Processing search iteration: 833, Status: Success! The City Count is: 425 and the unique name is: quzhou
+Processing search iteration: 834, Status: Success! The City Count is: 426 and the unique name is: salalah
+Processing search iteration: 835, Status: Success! The City Count is: 427 and the unique name is: neiafu
 Processing search iteration: 836, Status: Duplicate City: hobart
 Processing search iteration: 837, Status: Duplicate City: ushuaia
 Processing search iteration: 838, Status: Duplicate City: faanui
 Processing search iteration: 839, Status: Duplicate City: ushuaia
 Processing search iteration: 840, Status: Duplicate City: bluff
-Processing search iteration: 841, Status: Success! The City Count is: 357 and the unique name is: avera
+Processing search iteration: 841, Status: Success! The City Count is: 428 and the unique name is: avera
 Processing search iteration: 842, Status: Duplicate City: upernavik
 Processing search iteration: 843, Status: Duplicate City: carnarvon
-Processing search iteration: 844, Status: Success! The City Count is: 358 and the unique name is: bubaque
+Processing search iteration: 844, Status: Success! The City Count is: 429 and the unique name is: bubaque
 Processing search iteration: 845, Status: Duplicate City: chokurdakh
-Processing search iteration: 846, Status: Success! The City Count is: 359 and the unique name is: port said
+Processing search iteration: 846, Status: Success! The City Count is: 430 and the unique name is: port said
 Processing search iteration: 847, Status: Duplicate City: fortuna
-Processing search iteration: 848, Status: Success! The City Count is: 360 and the unique name is: presidencia roque saenz pena
+Processing search iteration: 848, Status: Success! The City Count is: 431 and the unique name is: presidencia roque saenz pena
 Processing search iteration: 849, Status: Duplicate City: oranjemund
-Processing search iteration: 850, Status: Success! The City Count is: 361 and the unique name is: arkhara
+Processing search iteration: 850, Status: Success! The City Count is: 432 and the unique name is: arkhara
 Processing search iteration: 851, Status: Duplicate City: kapaa
 Processing search iteration: 852, Status: Duplicate City: nome
 Processing search iteration: 853, Status: Duplicate City: busselton
-Processing search iteration: 854, Status: Success! The City Count is: 362 and the unique name is: mecca
+Processing search iteration: 854, Status: Success! The City Count is: 433 and the unique name is: mecca
 Processing search iteration: 855, Status: Duplicate City: busselton
 Processing search iteration: 856, Status: Key Error, OpenWeatherMap API could not find city: kawana waters
 Processing search iteration: 857, Status: Duplicate City: chokurdakh
-Processing search iteration: 858, Status: Success! The City Count is: 363 and the unique name is: udachnyy
+Processing search iteration: 858, Status: Success! The City Count is: 435 and the unique name is: udachnyy
 Processing search iteration: 859, Status: Duplicate City: iqaluit
-Processing search iteration: 860, Status: Success! The City Count is: 364 and the unique name is: buala
-Processing search iteration: 861, Status: Success! The City Count is: 365 and the unique name is: rameswaram
+Processing search iteration: 860, Status: Success! The City Count is: 436 and the unique name is: buala
+Processing search iteration: 861, Status: Success! The City Count is: 437 and the unique name is: rameswaram
 Processing search iteration: 862, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 863, Status: Success! The City Count is: 366 and the unique name is: mbuji-mayi
+Processing search iteration: 863, Status: Success! The City Count is: 439 and the unique name is: mbuji-mayi
 Processing search iteration: 864, Status: Duplicate City: mataura
-Processing search iteration: 865, Status: Success! The City Count is: 367 and the unique name is: khani
+Processing search iteration: 865, Status: Success! The City Count is: 440 and the unique name is: khani
 Processing search iteration: 866, Status: Duplicate City: ponta do sol
 Processing search iteration: 867, Status: Duplicate City: saskylakh
-Processing search iteration: 868, Status: Success! The City Count is: 368 and the unique name is: alice springs
-Processing search iteration: 869, Status: Success! The City Count is: 369 and the unique name is: cozumel
-Processing search iteration: 870, Status: Success! The City Count is: 370 and the unique name is: pingliang
+Processing search iteration: 868, Status: Success! The City Count is: 441 and the unique name is: alice springs
+Processing search iteration: 869, Status: Success! The City Count is: 442 and the unique name is: cozumel
+Processing search iteration: 870, Status: Success! The City Count is: 443 and the unique name is: pingliang
 Processing search iteration: 871, Status: Duplicate City: punta arenas
 Processing search iteration: 872, Status: Duplicate City: kapaa
 Processing search iteration: 873, Status: Key Error, OpenWeatherMap API could not find city: lolua
 Processing search iteration: 874, Status: Duplicate City: bredasdorp
 Processing search iteration: 875, Status: Duplicate City: kapaa
-Processing search iteration: 876, Status: Success! The City Count is: 371 and the unique name is: jizan
+Processing search iteration: 876, Status: Success! The City Count is: 445 and the unique name is: jizan
 Processing search iteration: 877, Status: Duplicate City: hilo
 Processing search iteration: 878, Status: Duplicate City: rikitea
-Processing search iteration: 879, Status: Success! The City Count is: 372 and the unique name is: coacoyul
+Processing search iteration: 879, Status: Success! The City Count is: 446 and the unique name is: coacoyul
 Processing search iteration: 880, Status: Duplicate City: punta arenas
-Processing search iteration: 881, Status: Success! The City Count is: 373 and the unique name is: kalmunai
+Processing search iteration: 881, Status: Success! The City Count is: 447 and the unique name is: kalmunai
 Processing search iteration: 882, Status: Duplicate City: ponta do sol
 Processing search iteration: 883, Status: Duplicate City: ushuaia
 Processing search iteration: 884, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 885, Status: Success! The City Count is: 374 and the unique name is: yola
-Processing search iteration: 886, Status: Success! The City Count is: 375 and the unique name is: along
+Processing search iteration: 885, Status: Success! The City Count is: 449 and the unique name is: yola
+Processing search iteration: 886, Status: Success! The City Count is: 450 and the unique name is: along
 Processing search iteration: 887, Status: Duplicate City: tiksi
 Processing search iteration: 888, Status: Duplicate City: ushuaia
 Processing search iteration: 889, Status: Duplicate City: lagoa
 Processing search iteration: 890, Status: Duplicate City: ushuaia
 Processing search iteration: 891, Status: Duplicate City: georgetown
-Processing search iteration: 892, Status: Success! The City Count is: 376 and the unique name is: ayni
+Processing search iteration: 892, Status: Success! The City Count is: 451 and the unique name is: ayni
 Processing search iteration: 893, Status: Key Error, OpenWeatherMap API could not find city: marcona
-Processing search iteration: 894, Status: Success! The City Count is: 377 and the unique name is: bandarbeyla
+Processing search iteration: 894, Status: Success! The City Count is: 453 and the unique name is: bandarbeyla
 Processing search iteration: 895, Status: Duplicate City: bredasdorp
-Processing search iteration: 896, Status: Success! The City Count is: 378 and the unique name is: okha
+Processing search iteration: 896, Status: Success! The City Count is: 454 and the unique name is: okha
 Processing search iteration: 897, Status: Duplicate City: lebu
 Processing search iteration: 898, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 899, Status: Duplicate City: kamenka
 Processing search iteration: 900, Status: Key Error, OpenWeatherMap API could not find city: nizhneyansk
 Processing search iteration: 901, Status: Duplicate City: san patricio
 Processing search iteration: 902, Status: Duplicate City: butaritari
-Processing search iteration: 903, Status: Success! The City Count is: 379 and the unique name is: balaipungut
+Processing search iteration: 903, Status: Success! The City Count is: 457 and the unique name is: balaipungut
 Processing search iteration: 904, Status: Duplicate City: bredasdorp
 Processing search iteration: 905, Status: Duplicate City: hobart
 Processing search iteration: 906, Status: Duplicate City: hobart
 Processing search iteration: 907, Status: Duplicate City: jamestown
-Processing search iteration: 908, Status: Success! The City Count is: 380 and the unique name is: qostanay
+Processing search iteration: 908, Status: Success! The City Count is: 458 and the unique name is: qostanay
 Processing search iteration: 909, Status: Duplicate City: tautira
 Processing search iteration: 910, Status: Duplicate City: tuatapere
 Processing search iteration: 911, Status: Duplicate City: chokurdakh
@@ -920,19 +920,19 @@ Processing search iteration: 918, Status: Duplicate City: mataura
 Processing search iteration: 919, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
 Processing search iteration: 920, Status: Duplicate City: kapaa
 Processing search iteration: 921, Status: Duplicate City: ushuaia
-Processing search iteration: 922, Status: Success! The City Count is: 381 and the unique name is: paamiut
-Processing search iteration: 923, Status: Success! The City Count is: 382 and the unique name is: mossendjo
+Processing search iteration: 922, Status: Success! The City Count is: 460 and the unique name is: paamiut
+Processing search iteration: 923, Status: Success! The City Count is: 461 and the unique name is: mossendjo
 Processing search iteration: 924, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
-Processing search iteration: 925, Status: Success! The City Count is: 383 and the unique name is: vilhena
+Processing search iteration: 925, Status: Success! The City Count is: 463 and the unique name is: vilhena
 Processing search iteration: 926, Status: Key Error, OpenWeatherMap API could not find city: grand river south east
 Processing search iteration: 927, Status: Duplicate City: mar del plata
-Processing search iteration: 928, Status: Success! The City Count is: 384 and the unique name is: kodiak
+Processing search iteration: 928, Status: Success! The City Count is: 465 and the unique name is: kodiak
 Processing search iteration: 929, Status: Key Error, OpenWeatherMap API could not find city: barbar
-Processing search iteration: 930, Status: Success! The City Count is: 385 and the unique name is: pierre
+Processing search iteration: 930, Status: Success! The City Count is: 467 and the unique name is: pierre
 Processing search iteration: 931, Status: Duplicate City: ushuaia
 Processing search iteration: 932, Status: Duplicate City: norman wells
 Processing search iteration: 933, Status: Duplicate City: arraial do cabo
-Processing search iteration: 934, Status: Success! The City Count is: 386 and the unique name is: chimore
+Processing search iteration: 934, Status: Success! The City Count is: 468 and the unique name is: chimore
 Processing search iteration: 935, Status: Duplicate City: cabo san lucas
 Processing search iteration: 936, Status: Duplicate City: bredasdorp
 Processing search iteration: 937, Status: Duplicate City: rikitea
@@ -941,252 +941,252 @@ Processing search iteration: 939, Status: Duplicate City: faanui
 Processing search iteration: 940, Status: Key Error, OpenWeatherMap API could not find city: mahadday weyne
 Processing search iteration: 941, Status: Duplicate City: rikitea
 Processing search iteration: 942, Status: Duplicate City: nanortalik
-Processing search iteration: 943, Status: Success! The City Count is: 387 and the unique name is: pontes e lacerda
+Processing search iteration: 943, Status: Success! The City Count is: 471 and the unique name is: pontes e lacerda
 Processing search iteration: 944, Status: Duplicate City: mataura
 Processing search iteration: 945, Status: Duplicate City: mataura
 Processing search iteration: 946, Status: Duplicate City: rikitea
-Processing search iteration: 947, Status: Success! The City Count is: 388 and the unique name is: namibe
+Processing search iteration: 947, Status: Success! The City Count is: 472 and the unique name is: namibe
 Processing search iteration: 948, Status: Duplicate City: lata
 Processing search iteration: 949, Status: Duplicate City: dingle
 Processing search iteration: 950, Status: Duplicate City: cape town
-Processing search iteration: 951, Status: Success! The City Count is: 389 and the unique name is: maputo
-Processing search iteration: 952, Status: Success! The City Count is: 390 and the unique name is: abu dhabi
-Processing search iteration: 953, Status: Success! The City Count is: 391 and the unique name is: ust-ishim
-Processing search iteration: 954, Status: Success! The City Count is: 392 and the unique name is: gonzales
+Processing search iteration: 951, Status: Success! The City Count is: 473 and the unique name is: maputo
+Processing search iteration: 952, Status: Success! The City Count is: 474 and the unique name is: abu dhabi
+Processing search iteration: 953, Status: Success! The City Count is: 475 and the unique name is: ust-ishim
+Processing search iteration: 954, Status: Success! The City Count is: 476 and the unique name is: gonzales
 Processing search iteration: 955, Status: Duplicate City: dingle
 Processing search iteration: 956, Status: Duplicate City: kamenka
 Processing search iteration: 957, Status: Duplicate City: rikitea
 Processing search iteration: 958, Status: Duplicate City: atuona
-Processing search iteration: 959, Status: Success! The City Count is: 393 and the unique name is: norwich
+Processing search iteration: 959, Status: Success! The City Count is: 477 and the unique name is: norwich
 Processing search iteration: 960, Status: Duplicate City: longyearbyen
-Processing search iteration: 961, Status: Success! The City Count is: 394 and the unique name is: sur
-Processing search iteration: 962, Status: Success! The City Count is: 395 and the unique name is: chifeng
-Processing search iteration: 963, Status: Success! The City Count is: 396 and the unique name is: bushehr
-Processing search iteration: 964, Status: Success! The City Count is: 397 and the unique name is: puttur
+Processing search iteration: 961, Status: Success! The City Count is: 478 and the unique name is: sur
+Processing search iteration: 962, Status: Success! The City Count is: 479 and the unique name is: chifeng
+Processing search iteration: 963, Status: Success! The City Count is: 480 and the unique name is: bushehr
+Processing search iteration: 964, Status: Success! The City Count is: 481 and the unique name is: puttur
 Processing search iteration: 965, Status: Duplicate City: dukat
 Processing search iteration: 966, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 967, Status: Duplicate City: bredasdorp
 Processing search iteration: 968, Status: Duplicate City: cape town
 Processing search iteration: 969, Status: Duplicate City: waipawa
-Processing search iteration: 970, Status: Success! The City Count is: 398 and the unique name is: san carlos de bariloche
+Processing search iteration: 970, Status: Success! The City Count is: 483 and the unique name is: san carlos de bariloche
 Processing search iteration: 971, Status: Key Error, OpenWeatherMap API could not find city: attawapiskat
 Processing search iteration: 972, Status: Duplicate City: coihaique
 Processing search iteration: 973, Status: Duplicate City: cape town
-Processing search iteration: 974, Status: Success! The City Count is: 399 and the unique name is: sambava
-Processing search iteration: 975, Status: Success! The City Count is: 400 and the unique name is: rincon
-Processing search iteration: 976, Status: Success! The City Count is: 401 and the unique name is: sorong
+Processing search iteration: 974, Status: Success! The City Count is: 485 and the unique name is: sambava
+Processing search iteration: 975, Status: Success! The City Count is: 486 and the unique name is: rincon
+Processing search iteration: 976, Status: Success! The City Count is: 487 and the unique name is: sorong
 Processing search iteration: 977, Status: Duplicate City: constitucion
-Processing search iteration: 978, Status: Success! The City Count is: 402 and the unique name is: matagami
-Processing search iteration: 979, Status: Success! The City Count is: 403 and the unique name is: ganzhou
+Processing search iteration: 978, Status: Success! The City Count is: 488 and the unique name is: matagami
+Processing search iteration: 979, Status: Success! The City Count is: 489 and the unique name is: ganzhou
 Processing search iteration: 980, Status: Duplicate City: punta arenas
 Processing search iteration: 981, Status: Duplicate City: hilo
-Processing search iteration: 982, Status: Success! The City Count is: 404 and the unique name is: flinders
+Processing search iteration: 982, Status: Success! The City Count is: 490 and the unique name is: flinders
 Processing search iteration: 983, Status: Duplicate City: barrow
 Processing search iteration: 984, Status: Duplicate City: ushuaia
-Processing search iteration: 985, Status: Success! The City Count is: 405 and the unique name is: iranshahr
+Processing search iteration: 985, Status: Success! The City Count is: 491 and the unique name is: iranshahr
 Processing search iteration: 986, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
 Processing search iteration: 987, Status: Key Error, OpenWeatherMap API could not find city: amderma
-Processing search iteration: 988, Status: Success! The City Count is: 406 and the unique name is: escalerillas
+Processing search iteration: 988, Status: Success! The City Count is: 494 and the unique name is: escalerillas
 Processing search iteration: 989, Status: Duplicate City: mahebourg
 Processing search iteration: 990, Status: Duplicate City: hermanus
 Processing search iteration: 991, Status: Duplicate City: rikitea
-Processing search iteration: 992, Status: Success! The City Count is: 407 and the unique name is: saurimo
-Processing search iteration: 993, Status: Success! The City Count is: 408 and the unique name is: visakhapatnam
+Processing search iteration: 992, Status: Success! The City Count is: 495 and the unique name is: saurimo
+Processing search iteration: 993, Status: Success! The City Count is: 496 and the unique name is: visakhapatnam
 Processing search iteration: 994, Status: Duplicate City: victoria
 Processing search iteration: 995, Status: Duplicate City: ushuaia
 Processing search iteration: 996, Status: Key Error, OpenWeatherMap API could not find city: vaitupu
 Processing search iteration: 997, Status: Duplicate City: rikitea
 Processing search iteration: 998, Status: Duplicate City: cidreira
-Processing search iteration: 999, Status: Success! The City Count is: 409 and the unique name is: hasaki
-Processing search iteration: 1000, Status: Success! The City Count is: 410 and the unique name is: san cristobal
+Processing search iteration: 999, Status: Success! The City Count is: 498 and the unique name is: hasaki
+Processing search iteration: 1000, Status: Success! The City Count is: 499 and the unique name is: san cristobal
 Processing search iteration: 1001, Status: Duplicate City: arraial do cabo
 Processing search iteration: 1002, Status: Duplicate City: bredasdorp
 Processing search iteration: 1003, Status: Duplicate City: chokurdakh
 Processing search iteration: 1004, Status: Duplicate City: leningradskiy
-Processing search iteration: 1005, Status: Success! The City Count is: 411 and the unique name is: novaya bryan
+Processing search iteration: 1005, Status: Success! The City Count is: 500 and the unique name is: novaya bryan
 Processing search iteration: 1006, Status: Duplicate City: tiksi
-Processing search iteration: 1007, Status: Success! The City Count is: 412 and the unique name is: ballina
-Processing search iteration: 1008, Status: Success! The City Count is: 413 and the unique name is: codrington
-Processing search iteration: 1009, Status: Success! The City Count is: 414 and the unique name is: prince rupert
-Processing search iteration: 1010, Status: Success! The City Count is: 415 and the unique name is: carutapera
-Processing search iteration: 1011, Status: Success! The City Count is: 416 and the unique name is: huarmey
+Processing search iteration: 1007, Status: Success! The City Count is: 501 and the unique name is: ballina
+Processing search iteration: 1008, Status: Success! The City Count is: 502 and the unique name is: codrington
+Processing search iteration: 1009, Status: Success! The City Count is: 503 and the unique name is: prince rupert
+Processing search iteration: 1010, Status: Success! The City Count is: 504 and the unique name is: carutapera
+Processing search iteration: 1011, Status: Success! The City Count is: 505 and the unique name is: huarmey
 Processing search iteration: 1012, Status: Duplicate City: rocha
 Processing search iteration: 1013, Status: Duplicate City: ushuaia
-Processing search iteration: 1014, Status: Success! The City Count is: 417 and the unique name is: usinsk
+Processing search iteration: 1014, Status: Success! The City Count is: 506 and the unique name is: usinsk
 Processing search iteration: 1015, Status: Duplicate City: mataura
 Processing search iteration: 1016, Status: Duplicate City: lompoc
-Processing search iteration: 1017, Status: Success! The City Count is: 418 and the unique name is: iraquara
+Processing search iteration: 1017, Status: Success! The City Count is: 507 and the unique name is: iraquara
 Processing search iteration: 1018, Status: Duplicate City: albany
-Processing search iteration: 1019, Status: Success! The City Count is: 419 and the unique name is: beloha
+Processing search iteration: 1019, Status: Success! The City Count is: 508 and the unique name is: beloha
 Processing search iteration: 1020, Status: Duplicate City: vaini
-Processing search iteration: 1021, Status: Success! The City Count is: 420 and the unique name is: hwange
+Processing search iteration: 1021, Status: Success! The City Count is: 509 and the unique name is: hwange
 Processing search iteration: 1022, Status: Duplicate City: barrow
 Processing search iteration: 1023, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 1024, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
-Processing search iteration: 1025, Status: Success! The City Count is: 421 and the unique name is: portland
+Processing search iteration: 1025, Status: Success! The City Count is: 512 and the unique name is: portland
 Processing search iteration: 1026, Status: Duplicate City: bluff
-Processing search iteration: 1027, Status: Success! The City Count is: 422 and the unique name is: kutum
+Processing search iteration: 1027, Status: Success! The City Count is: 513 and the unique name is: kutum
 Processing search iteration: 1028, Status: Duplicate City: cabo san lucas
 Processing search iteration: 1029, Status: Duplicate City: ostrovnoy
-Processing search iteration: 1030, Status: Success! The City Count is: 423 and the unique name is: port hardy
+Processing search iteration: 1030, Status: Success! The City Count is: 514 and the unique name is: port hardy
 Processing search iteration: 1031, Status: Duplicate City: atuona
 Processing search iteration: 1032, Status: Duplicate City: kapaa
-Processing search iteration: 1033, Status: Success! The City Count is: 424 and the unique name is: richards bay
-Processing search iteration: 1034, Status: Success! The City Count is: 425 and the unique name is: kaoma
+Processing search iteration: 1033, Status: Success! The City Count is: 515 and the unique name is: richards bay
+Processing search iteration: 1034, Status: Success! The City Count is: 516 and the unique name is: kaoma
 Processing search iteration: 1035, Status: Duplicate City: georgetown
 Processing search iteration: 1036, Status: Duplicate City: airai
 Processing search iteration: 1037, Status: Duplicate City: bethel
-Processing search iteration: 1038, Status: Success! The City Count is: 426 and the unique name is: santa helena
+Processing search iteration: 1038, Status: Success! The City Count is: 517 and the unique name is: santa helena
 Processing search iteration: 1039, Status: Duplicate City: hilo
 Processing search iteration: 1040, Status: Duplicate City: busselton
 Processing search iteration: 1041, Status: Duplicate City: nanortalik
 Processing search iteration: 1042, Status: Duplicate City: victoria
-Processing search iteration: 1043, Status: Success! The City Count is: 427 and the unique name is: sistranda
-Processing search iteration: 1044, Status: Success! The City Count is: 428 and the unique name is: carauari
+Processing search iteration: 1043, Status: Success! The City Count is: 518 and the unique name is: sistranda
+Processing search iteration: 1044, Status: Success! The City Count is: 519 and the unique name is: carauari
 Processing search iteration: 1045, Status: Key Error, OpenWeatherMap API could not find city: utila
-Processing search iteration: 1046, Status: Success! The City Count is: 429 and the unique name is: guerrero negro
+Processing search iteration: 1046, Status: Success! The City Count is: 521 and the unique name is: guerrero negro
 Processing search iteration: 1047, Status: Duplicate City: balkanabat
 Processing search iteration: 1048, Status: Duplicate City: upernavik
-Processing search iteration: 1049, Status: Success! The City Count is: 430 and the unique name is: xuanhua
+Processing search iteration: 1049, Status: Success! The City Count is: 522 and the unique name is: xuanhua
 Processing search iteration: 1050, Status: Duplicate City: port lincoln
 Processing search iteration: 1051, Status: Duplicate City: faanui
 Processing search iteration: 1052, Status: Duplicate City: atuona
 Processing search iteration: 1053, Status: Duplicate City: mataura
 Processing search iteration: 1054, Status: Duplicate City: chokurdakh
-Processing search iteration: 1055, Status: Success! The City Count is: 431 and the unique name is: khandyga
+Processing search iteration: 1055, Status: Success! The City Count is: 523 and the unique name is: khandyga
 Processing search iteration: 1056, Status: Duplicate City: butaritari
-Processing search iteration: 1057, Status: Success! The City Count is: 432 and the unique name is: griffith
+Processing search iteration: 1057, Status: Success! The City Count is: 524 and the unique name is: griffith
 Processing search iteration: 1058, Status: Duplicate City: kapaa
-Processing search iteration: 1059, Status: Success! The City Count is: 433 and the unique name is: shenxian
-Processing search iteration: 1060, Status: Success! The City Count is: 434 and the unique name is: souillac
+Processing search iteration: 1059, Status: Success! The City Count is: 525 and the unique name is: shenxian
+Processing search iteration: 1060, Status: Success! The City Count is: 526 and the unique name is: souillac
 Processing search iteration: 1061, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 1062, Status: Success! The City Count is: 435 and the unique name is: xiaoweizhai
-Processing search iteration: 1063, Status: Success! The City Count is: 436 and the unique name is: asau
+Processing search iteration: 1062, Status: Success! The City Count is: 528 and the unique name is: xiaoweizhai
+Processing search iteration: 1063, Status: Success! The City Count is: 529 and the unique name is: asau
 Processing search iteration: 1064, Status: Duplicate City: cabo san lucas
-Processing search iteration: 1065, Status: Success! The City Count is: 437 and the unique name is: sharan
-Processing search iteration: 1066, Status: Success! The City Count is: 438 and the unique name is: taltal
+Processing search iteration: 1065, Status: Success! The City Count is: 530 and the unique name is: sharan
+Processing search iteration: 1066, Status: Success! The City Count is: 531 and the unique name is: taltal
 Processing search iteration: 1067, Status: Duplicate City: busselton
 Processing search iteration: 1068, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 1069, Status: Success! The City Count is: 439 and the unique name is: dorado
-Processing search iteration: 1070, Status: Success! The City Count is: 440 and the unique name is: ust-kuyga
+Processing search iteration: 1069, Status: Success! The City Count is: 533 and the unique name is: dorado
+Processing search iteration: 1070, Status: Success! The City Count is: 534 and the unique name is: ust-kuyga
 Processing search iteration: 1071, Status: Duplicate City: ushuaia
 Processing search iteration: 1072, Status: Duplicate City: albany
-Processing search iteration: 1073, Status: Success! The City Count is: 441 and the unique name is: kiama
+Processing search iteration: 1073, Status: Success! The City Count is: 535 and the unique name is: kiama
 Processing search iteration: 1074, Status: Duplicate City: hithadhoo
 Processing search iteration: 1075, Status: Duplicate City: thompson
-Processing search iteration: 1076, Status: Success! The City Count is: 442 and the unique name is: kati
+Processing search iteration: 1076, Status: Success! The City Count is: 536 and the unique name is: kati
 Processing search iteration: 1077, Status: Duplicate City: comodoro rivadavia
-Processing search iteration: 1078, Status: Success! The City Count is: 443 and the unique name is: santa rosalia
+Processing search iteration: 1078, Status: Success! The City Count is: 537 and the unique name is: santa rosalia
 Processing search iteration: 1079, Status: Duplicate City: ahipara
 Processing search iteration: 1080, Status: Duplicate City: sao filipe
-Processing search iteration: 1081, Status: Success! The City Count is: 444 and the unique name is: heihe
-Processing search iteration: 1082, Status: Success! The City Count is: 445 and the unique name is: talaya
-Processing search iteration: 1083, Status: Success! The City Count is: 446 and the unique name is: nieuwpoort
+Processing search iteration: 1081, Status: Success! The City Count is: 538 and the unique name is: heihe
+Processing search iteration: 1082, Status: Success! The City Count is: 539 and the unique name is: talaya
+Processing search iteration: 1083, Status: Success! The City Count is: 540 and the unique name is: nieuwpoort
 Processing search iteration: 1084, Status: Duplicate City: chokurdakh
 Processing search iteration: 1085, Status: Duplicate City: cayenne
-Processing search iteration: 1086, Status: Success! The City Count is: 447 and the unique name is: mosquera
+Processing search iteration: 1086, Status: Success! The City Count is: 541 and the unique name is: mosquera
 Processing search iteration: 1087, Status: Duplicate City: port alfred
 Processing search iteration: 1088, Status: Duplicate City: busselton
 Processing search iteration: 1089, Status: Key Error, OpenWeatherMap API could not find city: sentyabrskiy
 Processing search iteration: 1090, Status: Duplicate City: geraldton
 Processing search iteration: 1091, Status: Duplicate City: nikolskoye
-Processing search iteration: 1092, Status: Success! The City Count is: 448 and the unique name is: vyazovaya
+Processing search iteration: 1092, Status: Success! The City Count is: 543 and the unique name is: vyazovaya
 Processing search iteration: 1093, Status: Duplicate City: mataura
 Processing search iteration: 1094, Status: Duplicate City: punta arenas
 Processing search iteration: 1095, Status: Duplicate City: kaitangata
-Processing search iteration: 1096, Status: Success! The City Count is: 449 and the unique name is: poplar bluff
-Processing search iteration: 1097, Status: Success! The City Count is: 450 and the unique name is: kargat
+Processing search iteration: 1096, Status: Success! The City Count is: 544 and the unique name is: poplar bluff
+Processing search iteration: 1097, Status: Success! The City Count is: 545 and the unique name is: kargat
 Processing search iteration: 1098, Status: Duplicate City: flinders
 Processing search iteration: 1099, Status: Key Error, OpenWeatherMap API could not find city: ust-kamchatsk
 Processing search iteration: 1100, Status: Duplicate City: ushuaia
-Processing search iteration: 1101, Status: Success! The City Count is: 451 and the unique name is: ayan
-Processing search iteration: 1102, Status: Success! The City Count is: 452 and the unique name is: rafraf
-Processing search iteration: 1103, Status: Success! The City Count is: 453 and the unique name is: cockburn town
+Processing search iteration: 1101, Status: Success! The City Count is: 547 and the unique name is: ayan
+Processing search iteration: 1102, Status: Success! The City Count is: 548 and the unique name is: rafraf
+Processing search iteration: 1103, Status: Success! The City Count is: 549 and the unique name is: cockburn town
 Processing search iteration: 1104, Status: Duplicate City: barcelos
 Processing search iteration: 1105, Status: Duplicate City: rikitea
 Processing search iteration: 1106, Status: Duplicate City: ushuaia
-Processing search iteration: 1107, Status: Success! The City Count is: 454 and the unique name is: idritsa
-Processing search iteration: 1108, Status: Success! The City Count is: 455 and the unique name is: ryazan
+Processing search iteration: 1107, Status: Success! The City Count is: 550 and the unique name is: idritsa
+Processing search iteration: 1108, Status: Success! The City Count is: 551 and the unique name is: ryazan
 Processing search iteration: 1109, Status: Duplicate City: souillac
 Processing search iteration: 1110, Status: Duplicate City: new norfolk
-Processing search iteration: 1111, Status: Success! The City Count is: 456 and the unique name is: banda aceh
-Processing search iteration: 1112, Status: Success! The City Count is: 457 and the unique name is: pudozh
+Processing search iteration: 1111, Status: Success! The City Count is: 552 and the unique name is: banda aceh
+Processing search iteration: 1112, Status: Success! The City Count is: 553 and the unique name is: pudozh
 Processing search iteration: 1113, Status: Duplicate City: yellowknife
 Processing search iteration: 1114, Status: Duplicate City: bambous virieux
 Processing search iteration: 1115, Status: Duplicate City: khatanga
-Processing search iteration: 1116, Status: Success! The City Count is: 458 and the unique name is: zyryanka
+Processing search iteration: 1116, Status: Success! The City Count is: 554 and the unique name is: zyryanka
 Processing search iteration: 1117, Status: Duplicate City: port alfred
 Processing search iteration: 1118, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 1119, Status: Duplicate City: mar del plata
-Processing search iteration: 1120, Status: Success! The City Count is: 459 and the unique name is: santa cruz cabralia
+Processing search iteration: 1120, Status: Success! The City Count is: 556 and the unique name is: santa cruz cabralia
 Processing search iteration: 1121, Status: Key Error, OpenWeatherMap API could not find city: attawapiskat
 Processing search iteration: 1122, Status: Duplicate City: rikitea
 Processing search iteration: 1123, Status: Duplicate City: kodiak
 Processing search iteration: 1124, Status: Key Error, OpenWeatherMap API could not find city: attawapiskat
-Processing search iteration: 1125, Status: Success! The City Count is: 460 and the unique name is: rosetta
+Processing search iteration: 1125, Status: Success! The City Count is: 559 and the unique name is: rosetta
 Processing search iteration: 1126, Status: Duplicate City: matara
 Processing search iteration: 1127, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
 Processing search iteration: 1128, Status: Duplicate City: saskylakh
-Processing search iteration: 1129, Status: Success! The City Count is: 461 and the unique name is: sarh
-Processing search iteration: 1130, Status: Success! The City Count is: 462 and the unique name is: ios
-Processing search iteration: 1131, Status: Success! The City Count is: 463 and the unique name is: puerto ayacucho
+Processing search iteration: 1129, Status: Success! The City Count is: 561 and the unique name is: sarh
+Processing search iteration: 1130, Status: Success! The City Count is: 562 and the unique name is: ios
+Processing search iteration: 1131, Status: Success! The City Count is: 563 and the unique name is: puerto ayacucho
 Processing search iteration: 1132, Status: Duplicate City: new norfolk
 Processing search iteration: 1133, Status: Duplicate City: geraldton
 Processing search iteration: 1134, Status: Duplicate City: albany
 Processing search iteration: 1135, Status: Duplicate City: kaitangata
 Processing search iteration: 1136, Status: Duplicate City: kaitangata
-Processing search iteration: 1137, Status: Success! The City Count is: 464 and the unique name is: umm kaddadah
+Processing search iteration: 1137, Status: Success! The City Count is: 564 and the unique name is: umm kaddadah
 Processing search iteration: 1138, Status: Duplicate City: ostrovnoy
-Processing search iteration: 1139, Status: Success! The City Count is: 465 and the unique name is: sabang
+Processing search iteration: 1139, Status: Success! The City Count is: 565 and the unique name is: sabang
 Processing search iteration: 1140, Status: Duplicate City: airai
 Processing search iteration: 1141, Status: Duplicate City: nikolskoye
-Processing search iteration: 1142, Status: Success! The City Count is: 466 and the unique name is: arica
-Processing search iteration: 1143, Status: Success! The City Count is: 467 and the unique name is: sola
+Processing search iteration: 1142, Status: Success! The City Count is: 566 and the unique name is: arica
+Processing search iteration: 1143, Status: Success! The City Count is: 567 and the unique name is: sola
 Processing search iteration: 1144, Status: Duplicate City: jamestown
 Processing search iteration: 1145, Status: Duplicate City: port elizabeth
 Processing search iteration: 1146, Status: Duplicate City: port elizabeth
 Processing search iteration: 1147, Status: Duplicate City: kodiak
 Processing search iteration: 1148, Status: Duplicate City: nizwa
-Processing search iteration: 1149, Status: Success! The City Count is: 468 and the unique name is: mangan
+Processing search iteration: 1149, Status: Success! The City Count is: 568 and the unique name is: mangan
 Processing search iteration: 1150, Status: Duplicate City: henties bay
-Processing search iteration: 1151, Status: Success! The City Count is: 469 and the unique name is: namwala
+Processing search iteration: 1151, Status: Success! The City Count is: 569 and the unique name is: namwala
 Processing search iteration: 1152, Status: Key Error, OpenWeatherMap API could not find city: kuva
 Processing search iteration: 1153, Status: Duplicate City: vaini
-Processing search iteration: 1154, Status: Success! The City Count is: 470 and the unique name is: bandar-e anzali
-Processing search iteration: 1155, Status: Success! The City Count is: 471 and the unique name is: maceio
+Processing search iteration: 1154, Status: Success! The City Count is: 571 and the unique name is: bandar-e anzali
+Processing search iteration: 1155, Status: Success! The City Count is: 572 and the unique name is: maceio
 Processing search iteration: 1156, Status: Duplicate City: port elizabeth
 Processing search iteration: 1157, Status: Duplicate City: torbay
 Processing search iteration: 1158, Status: Duplicate City: san patricio
 Processing search iteration: 1159, Status: Duplicate City: provideniya
 Processing search iteration: 1160, Status: Duplicate City: guerrero negro
-Processing search iteration: 1161, Status: Success! The City Count is: 472 and the unique name is: toronto
+Processing search iteration: 1161, Status: Success! The City Count is: 573 and the unique name is: toronto
 Processing search iteration: 1162, Status: Duplicate City: bluff
 Processing search iteration: 1163, Status: Duplicate City: beloha
 Processing search iteration: 1164, Status: Duplicate City: saint-philippe
-Processing search iteration: 1165, Status: Success! The City Count is: 473 and the unique name is: kletnya
+Processing search iteration: 1165, Status: Success! The City Count is: 574 and the unique name is: kletnya
 Processing search iteration: 1166, Status: Duplicate City: cherskiy
-Processing search iteration: 1167, Status: Success! The City Count is: 474 and the unique name is: cururupu
+Processing search iteration: 1167, Status: Success! The City Count is: 575 and the unique name is: cururupu
 Processing search iteration: 1168, Status: Duplicate City: taltal
 Processing search iteration: 1169, Status: Duplicate City: ahipara
 Processing search iteration: 1170, Status: Duplicate City: lebu
 Processing search iteration: 1171, Status: Duplicate City: albany
 Processing search iteration: 1172, Status: Duplicate City: thompson
-Processing search iteration: 1173, Status: Success! The City Count is: 475 and the unique name is: sioux lookout
-Processing search iteration: 1174, Status: Success! The City Count is: 476 and the unique name is: marawi
+Processing search iteration: 1173, Status: Success! The City Count is: 576 and the unique name is: sioux lookout
+Processing search iteration: 1174, Status: Success! The City Count is: 577 and the unique name is: marawi
 Processing search iteration: 1175, Status: Duplicate City: avarua
 Processing search iteration: 1176, Status: Duplicate City: hamilton
-Processing search iteration: 1177, Status: Success! The City Count is: 477 and the unique name is: maragogi
-Processing search iteration: 1178, Status: Success! The City Count is: 478 and the unique name is: deputatskiy
+Processing search iteration: 1177, Status: Success! The City Count is: 578 and the unique name is: maragogi
+Processing search iteration: 1178, Status: Success! The City Count is: 579 and the unique name is: deputatskiy
 Processing search iteration: 1179, Status: Duplicate City: punta arenas
-Processing search iteration: 1180, Status: Success! The City Count is: 479 and the unique name is: wyndham
+Processing search iteration: 1180, Status: Success! The City Count is: 580 and the unique name is: wyndham
 Processing search iteration: 1181, Status: Key Error, OpenWeatherMap API could not find city: attawapiskat
 Processing search iteration: 1182, Status: Duplicate City: saint-philippe
 Processing search iteration: 1183, Status: Duplicate City: cape town
 Processing search iteration: 1184, Status: Duplicate City: hilo
-Processing search iteration: 1185, Status: Success! The City Count is: 480 and the unique name is: hamada
+Processing search iteration: 1185, Status: Success! The City Count is: 582 and the unique name is: hamada
 Processing search iteration: 1186, Status: Duplicate City: bluff
 Processing search iteration: 1187, Status: Duplicate City: paamiut
-Processing search iteration: 1188, Status: Success! The City Count is: 481 and the unique name is: formosa do rio preto
+Processing search iteration: 1188, Status: Success! The City Count is: 583 and the unique name is: formosa do rio preto
 Processing search iteration: 1189, Status: Duplicate City: bredasdorp
 Processing search iteration: 1190, Status: Duplicate City: hermanus
 Processing search iteration: 1191, Status: Duplicate City: upernavik
@@ -1194,24 +1194,24 @@ Processing search iteration: 1192, Status: Duplicate City: punta arenas
 Processing search iteration: 1193, Status: Duplicate City: busselton
 Processing search iteration: 1194, Status: Duplicate City: cabo san lucas
 Processing search iteration: 1195, Status: Key Error, OpenWeatherMap API could not find city: ust-kamchatsk
-Processing search iteration: 1196, Status: Success! The City Count is: 482 and the unique name is: roald
+Processing search iteration: 1196, Status: Success! The City Count is: 585 and the unique name is: roald
 Processing search iteration: 1197, Status: Duplicate City: busselton
-Processing search iteration: 1198, Status: Success! The City Count is: 483 and the unique name is: shushtar
+Processing search iteration: 1198, Status: Success! The City Count is: 586 and the unique name is: shushtar
 Processing search iteration: 1199, Status: Duplicate City: lasa
-Processing search iteration: 1200, Status: Success! The City Count is: 484 and the unique name is: varna
+Processing search iteration: 1200, Status: Success! The City Count is: 587 and the unique name is: varna
 Processing search iteration: 1201, Status: Duplicate City: upernavik
 Processing search iteration: 1202, Status: Duplicate City: rikitea
 Processing search iteration: 1203, Status: Duplicate City: arraial do cabo
 Processing search iteration: 1204, Status: Key Error, OpenWeatherMap API could not find city: samusu
 Processing search iteration: 1205, Status: Duplicate City: hithadhoo
-Processing search iteration: 1206, Status: Success! The City Count is: 485 and the unique name is: yerbogachen
+Processing search iteration: 1206, Status: Success! The City Count is: 589 and the unique name is: yerbogachen
 Processing search iteration: 1207, Status: Duplicate City: mataura
 Processing search iteration: 1208, Status: Duplicate City: ahipara
 Processing search iteration: 1209, Status: Duplicate City: mataura
-Processing search iteration: 1210, Status: Success! The City Count is: 486 and the unique name is: coudekerque-branche
-Processing search iteration: 1211, Status: Success! The City Count is: 487 and the unique name is: north branch
-Processing search iteration: 1212, Status: Success! The City Count is: 488 and the unique name is: grand gaube
-Processing search iteration: 1213, Status: Success! The City Count is: 489 and the unique name is: arshan
+Processing search iteration: 1210, Status: Success! The City Count is: 590 and the unique name is: coudekerque-branche
+Processing search iteration: 1211, Status: Success! The City Count is: 591 and the unique name is: north branch
+Processing search iteration: 1212, Status: Success! The City Count is: 592 and the unique name is: grand gaube
+Processing search iteration: 1213, Status: Success! The City Count is: 593 and the unique name is: arshan
 Processing search iteration: 1214, Status: Duplicate City: hobart
 Processing search iteration: 1215, Status: Duplicate City: thompson
 Processing search iteration: 1216, Status: Key Error, OpenWeatherMap API could not find city: belushya guba
@@ -1219,7 +1219,7 @@ Processing search iteration: 1217, Status: Duplicate City: east london
 Processing search iteration: 1218, Status: Duplicate City: arraial do cabo
 Processing search iteration: 1219, Status: Duplicate City: busselton
 Processing search iteration: 1220, Status: Duplicate City: vaini
-Processing search iteration: 1221, Status: Success! The City Count is: 490 and the unique name is: baytown
+Processing search iteration: 1221, Status: Success! The City Count is: 595 and the unique name is: baytown
 Processing search iteration: 1222, Status: Duplicate City: cape town
 Processing search iteration: 1223, Status: Duplicate City: new norfolk
 Processing search iteration: 1224, Status: Duplicate City: hobart
@@ -1229,94 +1229,72 @@ Processing search iteration: 1227, Status: Duplicate City: chokurdakh
 Processing search iteration: 1228, Status: Duplicate City: punta arenas
 Processing search iteration: 1229, Status: Duplicate City: dikson
 Processing search iteration: 1230, Status: Duplicate City: dikson
-Processing search iteration: 1231, Status: Success! The City Count is: 491 and the unique name is: kirakira
-Processing search iteration: 1232, Status: Success! The City Count is: 492 and the unique name is: mihara
-Processing search iteration: 1233, Status: Success! The City Count is: 493 and the unique name is: lumphat
+Processing search iteration: 1231, Status: Success! The City Count is: 596 and the unique name is: kirakira
+Processing search iteration: 1232, Status: Success! The City Count is: 597 and the unique name is: mihara
+Processing search iteration: 1233, Status: Success! The City Count is: 598 and the unique name is: lumphat
 Processing search iteration: 1234, Status: Duplicate City: rikitea
 Processing search iteration: 1235, Status: Key Error, OpenWeatherMap API could not find city: grand river south east
 Processing search iteration: 1236, Status: Duplicate City: rikitea
-Processing search iteration: 1237, Status: Success! The City Count is: 494 and the unique name is: loreto
+Processing search iteration: 1237, Status: Success! The City Count is: 600 and the unique name is: loreto
 Processing search iteration: 1238, Status: Duplicate City: rikitea
 Processing search iteration: 1239, Status: Duplicate City: vaini
 Processing search iteration: 1240, Status: Duplicate City: khatanga
 Processing search iteration: 1241, Status: Duplicate City: rikitea
 Processing search iteration: 1242, Status: Duplicate City: airai
 Processing search iteration: 1243, Status: Duplicate City: albany
-Processing search iteration: 1244, Status: Success! The City Count is: 495 and the unique name is: manavalakurichi
+Processing search iteration: 1244, Status: Success! The City Count is: 601 and the unique name is: manavalakurichi
 Processing search iteration: 1245, Status: Duplicate City: mataura
 Processing search iteration: 1246, Status: Duplicate City: manokwari
 Processing search iteration: 1247, Status: Duplicate City: nanortalik
-Processing search iteration: 1248, Status: Success! The City Count is: 496 and the unique name is: kibungo
-Processing search iteration: 1249, Status: Success! The City Count is: 497 and the unique name is: aykhal
+Processing search iteration: 1248, Status: Success! The City Count is: 602 and the unique name is: kibungo
+Processing search iteration: 1249, Status: Success! The City Count is: 603 and the unique name is: aykhal
 Processing search iteration: 1250, Status: Duplicate City: barrow
 Processing search iteration: 1251, Status: Duplicate City: kieta
 Processing search iteration: 1252, Status: Duplicate City: busselton
-Processing search iteration: 1253, Status: Success! The City Count is: 498 and the unique name is: karlstad
-Processing search iteration: 1254, Status: Success! The City Count is: 499 and the unique name is: richmond
+Processing search iteration: 1253, Status: Success! The City Count is: 604 and the unique name is: karlstad
+Processing search iteration: 1254, Status: Success! The City Count is: 605 and the unique name is: richmond
 Processing search iteration: 1255, Status: Duplicate City: dikson
-Processing search iteration: 1256, Status: Success! The City Count is: 500 and the unique name is: sarkand
+Processing search iteration: 1256, Status: Success! The City Count is: 606 and the unique name is: sarkand
 Processing search iteration: 1257, Status: Duplicate City: tasiilaq
 Processing search iteration: 1258, Status: Duplicate City: kapaa
 Processing search iteration: 1259, Status: Duplicate City: punta arenas
 Processing search iteration: 1260, Status: Duplicate City: yellowknife
-Processing search iteration: 1261, Status: Success! The City Count is: 501 and the unique name is: tiznit
+Processing search iteration: 1261, Status: Success! The City Count is: 607 and the unique name is: tiznit
 Processing search iteration: 1262, Status: Duplicate City: butaritari
-Processing search iteration: 1263, Status: Success! The City Count is: 502 and the unique name is: santa cruz
+Processing search iteration: 1263, Status: Success! The City Count is: 608 and the unique name is: santa cruz
 Processing search iteration: 1264, Status: Duplicate City: hobart
 Processing search iteration: 1265, Status: Duplicate City: albany
 Processing search iteration: 1266, Status: Duplicate City: albany
-Processing search iteration: 1267, Status: Success! The City Count is: 503 and the unique name is: segezha
+Processing search iteration: 1267, Status: Success! The City Count is: 609 and the unique name is: segezha
 Processing search iteration: 1268, Status: Key Error, OpenWeatherMap API could not find city: amderma
 Processing search iteration: 1269, Status: Duplicate City: vaini
 Processing search iteration: 1270, Status: Duplicate City: upernavik
 Processing search iteration: 1271, Status: Duplicate City: atuona
-Processing search iteration: 1272, Status: Success! The City Count is: 504 and the unique name is: sande
+Processing search iteration: 1272, Status: Success! The City Count is: 611 and the unique name is: sande
 Processing search iteration: 1273, Status: Duplicate City: hermanus
 Processing search iteration: 1274, Status: Duplicate City: barrow
-Processing search iteration: 1275, Status: Success! The City Count is: 505 and the unique name is: rawlins
+Processing search iteration: 1275, Status: Success! The City Count is: 612 and the unique name is: rawlins
 Processing search iteration: 1276, Status: Duplicate City: port elizabeth
-Processing search iteration: 1277, Status: Success! The City Count is: 506 and the unique name is: dawson creek
+Processing search iteration: 1277, Status: Success! The City Count is: 613 and the unique name is: dawson creek
 Processing search iteration: 1278, Status: Duplicate City: pevek
 Processing search iteration: 1279, Status: Duplicate City: hilo
-Processing search iteration: 1280, Status: Success! The City Count is: 507 and the unique name is: copiapo
+Processing search iteration: 1280, Status: Success! The City Count is: 614 and the unique name is: copiapo
 Processing search iteration: 1281, Status: Duplicate City: punta arenas
 Processing search iteration: 1282, Status: Duplicate City: punta arenas
 Processing search iteration: 1283, Status: Duplicate City: longyearbyen
 Processing search iteration: 1284, Status: Duplicate City: antofagasta
 Processing search iteration: 1285, Status: Duplicate City: qaanaaq
-Processing search iteration: 1286, Status: Success! The City Count is: 508 and the unique name is: canavieiras
+Processing search iteration: 1286, Status: Success! The City Count is: 615 and the unique name is: canavieiras
 Processing search iteration: 1287, Status: Duplicate City: hobart
-Processing search iteration: 1288, Status: Success! The City Count is: 509 and the unique name is: xingyi
+Processing search iteration: 1288, Status: Success! The City Count is: 616 and the unique name is: xingyi
 Processing search iteration: 1289, Status: Duplicate City: puerto ayora
 Processing search iteration: 1290, Status: Duplicate City: bonthe
 Processing search iteration: 1291, Status: Duplicate City: cape town
 Processing search iteration: 1292, Status: Duplicate City: avarua
-Processing search iteration: 1293, Status: Success! The City Count is: 510 and the unique name is: goirle
+Processing search iteration: 1293, Status: Success! The City Count is: 617 and the unique name is: goirle
 Processing search iteration: 1294, Status: Duplicate City: baykit
 Processing search iteration: 1295, Status: Duplicate City: sitka
 Processing search iteration: 1296, Status: Duplicate City: arraial do cabo
 Processing search iteration: 1297, Status: Duplicate City: albany
-Processing search iteration: 1298, Status: Success! The City Count is: 511 and the unique name is: karaton
+Processing search iteration: 1298, Status: Success! The City Count is: 618 and the unique name is: karaton
 Processing search iteration: 1299, Status: Duplicate City: hasaki
-Processing search iteration: 1300, Status: Success! The City Count is: 512 and the unique name is: viedma
-Processing search iteration: 1301, Status: Duplicate City: maceio
-Processing search iteration: 1302, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
-Processing search iteration: 1303, Status: Duplicate City: albany
-Processing search iteration: 1304, Status: Duplicate City: ponta do sol
-Processing search iteration: 1305, Status: Duplicate City: jamestown
-Processing search iteration: 1306, Status: Success! The City Count is: 513 and the unique name is: te anau
-Processing search iteration: 1307, Status: Success! The City Count is: 514 and the unique name is: show low
-Processing search iteration: 1308, Status: Success! The City Count is: 515 and the unique name is: egvekinot
-Processing search iteration: 1309, Status: Success! The City Count is: 516 and the unique name is: raahe
-Processing search iteration: 1310, Status: Success! The City Count is: 517 and the unique name is: mayumba
-Processing search iteration: 1311, Status: Duplicate City: pisco
-Processing search iteration: 1312, Status: Duplicate City: kapaa
-Processing search iteration: 1313, Status: Success! The City Count is: 518 and the unique name is: rizhao
-Processing search iteration: 1314, Status: Duplicate City: barrow
-Processing search iteration: 1315, Status: Success! The City Count is: 519 and the unique name is: laguna
-Processing search iteration: 1316, Status: Duplicate City: yellowknife
-Processing search iteration: 1317, Status: Success! The City Count is: 520 and the unique name is: ca mau
-Processing search iteration: 1318, Status: Success! The City Count is: 521 and the unique name is: hervey bay
-Processing search iteration: 1319, Status: Duplicate City: cabo san lucas
-Processing search iteration: 1320, Status: Duplicate City: georgetown
-Processing search iteration: 1321, Status: Duplicate City: yellowknife

@@ -1298,3 +1298,103 @@ Processing search iteration: 1296, Status: Duplicate City: arraial do cabo
 Processing search iteration: 1297, Status: Duplicate City: albany
 Processing search iteration: 1298, Status: Success! The City Count is: 511 and the unique name is: karaton
 Processing search iteration: 1299, Status: Duplicate City: hasaki
+Processing search iteration: 1300, Status: Success! The City Count is: 512 and the unique name is: viedma
+Processing search iteration: 1301, Status: Duplicate City: maceio
+Processing search iteration: 1302, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
+Processing search iteration: 1303, Status: Duplicate City: albany
+Processing search iteration: 1304, Status: Duplicate City: ponta do sol
+Processing search iteration: 1305, Status: Duplicate City: jamestown
+Processing search iteration: 1306, Status: Success! The City Count is: 513 and the unique name is: te anau
+Processing search iteration: 1307, Status: Success! The City Count is: 514 and the unique name is: show low
+Processing search iteration: 1308, Status: Success! The City Count is: 515 and the unique name is: egvekinot
+Processing search iteration: 1309, Status: Success! The City Count is: 516 and the unique name is: raahe
+Processing search iteration: 1310, Status: Success! The City Count is: 517 and the unique name is: mayumba
+Processing search iteration: 1311, Status: Duplicate City: pisco
+Processing search iteration: 1312, Status: Duplicate City: kapaa
+Processing search iteration: 1313, Status: Success! The City Count is: 518 and the unique name is: rizhao
+Processing search iteration: 1314, Status: Duplicate City: barrow
+Processing search iteration: 1315, Status: Success! The City Count is: 519 and the unique name is: laguna
+Processing search iteration: 1316, Status: Duplicate City: yellowknife
+Processing search iteration: 1317, Status: Success! The City Count is: 520 and the unique name is: ca mau
+Processing search iteration: 1318, Status: Success! The City Count is: 521 and the unique name is: hervey bay
+Processing search iteration: 1319, Status: Duplicate City: cabo san lucas
+Processing search iteration: 1320, Status: Duplicate City: georgetown
+Processing search iteration: 1321, Status: Duplicate City: yellowknife
+Processing search iteration: 1322, Status: Duplicate City: griffith
+Processing search iteration: 1323, Status: Success! The City Count is: 522 and the unique name is: zhaotong
+Processing search iteration: 1324, Status: Success! The City Count is: 523 and the unique name is: yumen
+Processing search iteration: 1325, Status: Duplicate City: busselton
+Processing search iteration: 1326, Status: Duplicate City: busselton
+Processing search iteration: 1327, Status: Duplicate City: rikitea
+Processing search iteration: 1328, Status: Success! The City Count is: 524 and the unique name is: manadhoo
+Processing search iteration: 1329, Status: Success! The City Count is: 525 and the unique name is: golden
+Processing search iteration: 1330, Status: Duplicate City: jamestown
+Processing search iteration: 1331, Status: Success! The City Count is: 526 and the unique name is: tura
+Processing search iteration: 1332, Status: Duplicate City: namatanai
+Processing search iteration: 1333, Status: Duplicate City: port alfred
+Processing search iteration: 1334, Status: Success! The City Count is: 527 and the unique name is: takaka
+Processing search iteration: 1335, Status: Key Error, OpenWeatherMap API could not find city: samusu
+Processing search iteration: 1336, Status: Key Error, OpenWeatherMap API could not find city: taolanaro
+Processing search iteration: 1337, Status: Success! The City Count is: 528 and the unique name is: stornoway
+Processing search iteration: 1338, Status: Duplicate City: hermanus
+Processing search iteration: 1339, Status: Duplicate City: rikitea
+Processing search iteration: 1340, Status: Key Error, OpenWeatherMap API could not find city: achisay
+Processing search iteration: 1341, Status: Duplicate City: hobart
+Processing search iteration: 1342, Status: Duplicate City: mahebourg
+Processing search iteration: 1343, Status: Key Error, OpenWeatherMap API could not find city: illoqqortoormiut
+Processing search iteration: 1344, Status: Duplicate City: barrow
+Processing search iteration: 1345, Status: Duplicate City: fortuna
+Processing search iteration: 1346, Status: Success! The City Count is: 529 and the unique name is: newport
+Processing search iteration: 1347, Status: Duplicate City: faanui
+Processing search iteration: 1348, Status: Success! The City Count is: 530 and the unique name is: fort nelson
+Processing search iteration: 1349, Status: Duplicate City: hilo
+Processing search iteration: 1350, Status: Duplicate City: hilo
+Processing search iteration: 1351, Status: Duplicate City: rikitea
+Processing search iteration: 1352, Status: Duplicate City: bredasdorp
+Processing search iteration: 1353, Status: Success! The City Count is: 531 and the unique name is: jalu
+Processing search iteration: 1354, Status: Duplicate City: kaitangata
+Processing search iteration: 1355, Status: Success! The City Count is: 532 and the unique name is: sosnogorsk
+Processing search iteration: 1356, Status: Success! The City Count is: 533 and the unique name is: cabo rojo
+Processing search iteration: 1357, Status: Duplicate City: butaritari
+Processing search iteration: 1358, Status: Success! The City Count is: 534 and the unique name is: dunda
+Processing search iteration: 1359, Status: Duplicate City: georgetown
+Processing search iteration: 1360, Status: Key Error, OpenWeatherMap API could not find city: kachikau
+Processing search iteration: 1361, Status: Duplicate City: butaritari
+Processing search iteration: 1362, Status: Success! The City Count is: 535 and the unique name is: moussoro
+Processing search iteration: 1363, Status: Duplicate City: hobart
+Processing search iteration: 1364, Status: Success! The City Count is: 536 and the unique name is: pitimbu
+Processing search iteration: 1365, Status: Duplicate City: arraial do cabo
+Processing search iteration: 1366, Status: Duplicate City: rikitea
+Processing search iteration: 1367, Status: Duplicate City: hithadhoo
+Processing search iteration: 1368, Status: Duplicate City: pisco
+Processing search iteration: 1369, Status: Duplicate City: rikitea
+Processing search iteration: 1370, Status: Success! The City Count is: 537 and the unique name is: honavar
+Processing search iteration: 1371, Status: Success! The City Count is: 538 and the unique name is: camana
+Processing search iteration: 1372, Status: Duplicate City: albany
+Processing search iteration: 1373, Status: Duplicate City: hithadhoo
+Processing search iteration: 1374, Status: Duplicate City: bredasdorp
+Processing search iteration: 1375, Status: Duplicate City: namibe
+Processing search iteration: 1376, Status: Duplicate City: saskylakh
+Processing search iteration: 1377, Status: Duplicate City: guerrero negro
+Processing search iteration: 1378, Status: Duplicate City: rikitea
+Processing search iteration: 1379, Status: Duplicate City: puerto ayora
+Processing search iteration: 1380, Status: Duplicate City: tiksi
+Processing search iteration: 1381, Status: Duplicate City: provideniya
+Processing search iteration: 1382, Status: Duplicate City: esperance
+Processing search iteration: 1383, Status: Duplicate City: nikolskoye
+Processing search iteration: 1384, Status: Duplicate City: ushuaia
+Processing search iteration: 1385, Status: Duplicate City: ushuaia
+Processing search iteration: 1386, Status: Duplicate City: carutapera
+Processing search iteration: 1387, Status: Key Error, OpenWeatherMap API could not find city: barentsburg
+Processing search iteration: 1388, Status: Success! The City Count is: 539 and the unique name is: kolondieba
+Processing search iteration: 1389, Status: Duplicate City: taoudenni
+Processing search iteration: 1390, Status: Duplicate City: hilo
+Processing search iteration: 1391, Status: Duplicate City: vaini
+Processing search iteration: 1392, Status: Duplicate City: kodiak
+Processing search iteration: 1393, Status: Duplicate City: rikitea
+Processing search iteration: 1394, Status: Success! The City Count is: 540 and the unique name is: buluang
+Processing search iteration: 1395, Status: Success! The City Count is: 541 and the unique name is: ixtapa
+Processing search iteration: 1396, Status: Duplicate City: puerto ayora
+Processing search iteration: 1397, Status: Duplicate City: avarua
+Processing search iteration: 1398, Status: Key Error, OpenWeatherMap API could not find city: marcona
+Processing search iteration: 1399, Status: Duplicate City: albany
