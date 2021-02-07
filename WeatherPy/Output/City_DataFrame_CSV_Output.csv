@@ -1,4 +1,4 @@
-City Name,Max Temperature,Humidity %,Cloud Coverage %,Wind Speed (mph),City Latitude,City Longitude,City Country,City Local Date_Time,Random_Latitude,Random_Longitude
+City Name,Temperature (F),Humidity %,Cloud Coverage %,Wind Speed (mph),City Latitude,City Longitude,City Country,City Local Date_Time,Random_Latitude,Random_Longitude
 Rikitea,78.19,70,100,9.95,-23.1203,-134.9692,pf,"Sat, 06 Feb 2021 13:22:53",-45.98,-138.65
 Puerto Ayora,86.0,62,0,16.11,-0.7393,-90.3518,ec,"Sat, 06 Feb 2021 16:25:52",-6.42,-102.73
 Saskylakh,-36.92,80,92,6.69,71.9167,114.0833,ru,"Sun, 07 Feb 2021 07:27:23",72.34,114.57
