@@ -18,12 +18,12 @@ Included in this repository are:
 
 * An 'Output' folder with:
   * All of the scatter plots as .png files 
-    
-    * 4 plots for north south latitudes combined for temperature, humidity, cloud cover and wind) 
+
+    * 4 plots for north south latitudes combined for temperature, humidity, cloud cover and wind
   
-    * 8 plots for north south latitudes each for temperature, humidity, cloud cover and wind)
+    * 8 plots for north south latitudes each for temperature, humidity, cloud cover and wind
   
-  * CSV file with the output from the WeatherPy part of the challenge 
+  * CSV file with the output from the WeatherPy part of the challenge that is then input for the VacationPy part of the challenge 
  
   * TXT file showing the processing log for creating list of 500+ cities 
 
@@ -44,19 +44,19 @@ Included in this repository are:
 
 ### Combined North and South Latitudes
 
-* WeatherPy/Output/City_Lat_vs_Temp_Graph.png..
+* WeatherPy/Output/City_Lat_vs_Temp_Graph.png.
 
 ![WeatherPy - City Latitude vs Temp](WeatherPy/Output/City_Lat_vs_Temp_Graph.png)
 
-* WeatherPy/Output/City_Lat_vs_Humidity Graph.png..
+* WeatherPy/Output/City_Lat_vs_Humidity Graph.png.
 
 ![WeatherPy - City Latitude vs Humidity %](WeatherPy/Output/City_Lat_vs_Humid_Graph.png)
 
-* WeatherPy/Output/City_Lat_vs_Cloud_Graph.png..
+* WeatherPy/Output/City_Lat_vs_Cloud_Graph.png.
 
 ![WeatherPy - City Latitude vs Cloud](WeatherPy/Output/City_Lat_vs_Cloud_Graph.png)
 
-* WeatherPy/Output/City_Lat_vs_Wind_Graph.png..
+* WeatherPy/Output/City_Lat_vs_Wind_Graph.png.
 
 ![WeatherPy - City Latitude vs Wind (mph)](WeatherPy/Output/City_Lat_vs_Wind_Graph.png)
 
