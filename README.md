@@ -17,7 +17,7 @@ Included in this repository are:
 * Word document with 2 Screen Shots showing the VacationPy solution: Heatmap and the Heatmap with markers showing the solutions
 
 * An 'Output' folder with:
-  * All of the scatter plots as .png files 
+  * All of the scatter plots as .png files (Note: Observations and Insights for the plots are in cells after the plots graphs in the WeatherPy Notebook)
 
     * 4 plots for north south latitudes combined for temperature, humidity, cloud cover and wind
   
