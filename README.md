@@ -35,7 +35,7 @@ Included in this repository are:
 
   * [VacationPy Code](VacationPy/VacationPy.ipynb) - reads the [City_DataFrame_CSV_Output.csv](WeatherPy/Output/City_DataFrame_CSV_Output.csv) maps the humidity of each city in a heatmap, selects < 10 cities to add markers for local hotels and adds as an additional layer onto the heatmap. [Word Doc of Screen Shots of maps](VacationPy/Screenshots_of_heatmaps.docx) created for documentation of the heatmap and marker outputs.
 
-* [Scatter Plots](WeatherPy/Output/*.png) - Folder with all the scatter plot .pngs (also shown below) of each output showing the final results.
+* [Scatter Plots](WeatherPy/Output) - Folder with all the scatter plot .pngs (also shown below) of each output showing the final results.
 
 * [Word Doc of Screen Shots of maps](VacationPy/Screenshots_of_heatmaps.docx) - Is a word document that has the screenshots for both maps. 
 
